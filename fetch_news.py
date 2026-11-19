@@ -17,9 +17,8 @@ from pathlib import Path
 FEEDS = [
     {"source": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/boxing/rss.xml"},
     {"source": "The Guardian", "url": "https://www.theguardian.com/sport/boxing/rss"},
-    {"source": "ESPN", "url": "https://www.espn.com/espn/rss/boxing/news"},
     {"source": "ESPN (via Google News)",
-     "url": "https://news.google.com/rss/search?q=boxing+site:espn.com&hl=en-US&gl=US&ceid=US:en",
+     "url": "https://news.google.com/rss/search?q=site:espn.com/boxingq=boxing+site:espn.com&hl=en-US&gl=US&ceid=US:en",
      "strip_suffix": " - ESPN"},
     {"source": "Sky Sports", "url": "https://www.skysports.com/rss/12183"},
     {"source": "Bad Left Hook", "url": "https://www.badlefthook.com/rss/index.xml"},
