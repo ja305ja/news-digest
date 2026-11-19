@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T04:36:16+00:00",
+  "last_updated": "2026-11-19T04:57:11+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -15,7 +15,12 @@
       "source": "ESPN",
       "ok": false,
       "count": 0,
-      "error": "ParseError"
+      "error": "ValueError"
+    },
+    {
+      "source": "ESPN (via Google News)",
+      "ok": true,
+      "count": 15
     },
     {
       "source": "Sky Sports",
@@ -29,6 +34,18 @@
     }
   ],
   "items": [
+    {
+      "title": "Georgia AG asks SEC to take action against LSU's 'contempt for the rules'",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDRoRlF4aTIzSGNWU3FWSXZkUFA3cnU3X2pWbkEwLTlhUXRTNlhiSER1YVZ6VU45cGxfaGFCZG9sWWFwLVJ6NDRMTFIySENmbkx3X253ZEozaHl5cWN0bW1lZHVIRlVVWTI4akJORDROc1AzOXlfbVVvaTV6dmpYcXVFcHZpM3AyMTB3NzJFaVNuZVNjV2N0WnhrZFZLZjBrbVR4aEprZDhMYmF3VkdlMk1IWQ?oc=5",
+      "published": "2026-11-18T21:25:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "UFC releases Virna Jandiroba, former title challenger, current No. 3 strawweight",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZC16NlFNS05Mb0FYN1N5UTRqZUhmU3ZsdDktZm5ZTVdvbEg3c29jWF9HWUxuUFlmM2wwVGNEMDNjS29JYzlma2NoTVJWM1JmM1lsUENWaUE2b3FrdkpmbU5zS0REXzRRNXFfd0NUaDFhc2h5ekhBTmkxOGRLM1ZyeEQ4Y0gtNG9TTDV4Y2FBanpEMWJNNUhLOXNTNHc0V2J5c18zQ2NB?oc=5",
+      "published": "2026-11-18T19:08:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
     {
       "title": "Tenshin Nasukawa vs Antonio Vargas leads January 11th Prime Video tripleheader",
       "link": "https://www.badlefthook.com/boxing-news/120488/tenshin-nasukawa-vs-antonio-vargas-leads-january-11th-prime-video-tripleheader",
@@ -54,10 +71,22 @@
       "source": "Sky Sports"
     },
     {
+      "title": "The rebuild and redemption of Liam Lawson, F1's comeback kid",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10S2tVelFMTnUyX0RobkZ5ckY1SDFrYlh5RFc2ZWQ2ajZRSk9KQTV3M29UOXBUQWpfVm1kT0ZiU296WmM0SGxnMnZqVnJGWXR0ekZQVnU1NHp5SWVNV01TcmZRcklfV0JrRFpBUHM1bFVSOGdPN0VUVVBsTjFvZG8?oc=5",
+      "published": "2026-11-18T14:11:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Opetaia out of Wilder fight on Fury-Joshua card",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/cq1md5ppd2mxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-18T10:15:35+00:00",
       "source": "BBC Sport"
+    },
+    {
+      "title": "Opetaia out of Wilder fight, Fury vs. Joshua loses key undercard clash",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVElGUHU5Q1VLWXZ3ZWFsVHh5Sk5GdDl0b2UxSFkwY3hXNEhtMi1BQWNrTU1WWGtkSUxjbGpRM0FhZWxqUlFGQ2NMQ2JTZ0o2Y1E3X3EzMFZNeVl5NHhHdWN3LUNPcjNNMWFrZWloaUwtVVdZVU5lcUNIRndsU245cXFTLVQtVlBITGJPaVN1aXhxVjRkVjRMekFWeHJDV0w1S2c?oc=5",
+      "published": "2026-11-18T09:26:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Opetaia out of Wilder bout on Fury-AJ undercard",
@@ -120,6 +149,12 @@
       "source": "Bad Left Hook"
     },
     {
+      "title": "Abu Dhabi court reduces sentences for 8 in Nurmagomedov-Dvalishvili brawl",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTZVbmg5Y0VYTkN4RDRTb1Rpc3pXU2dqX0lIblU5RzgzM3ZYTkZpeEhFcWZTRk9JZTkxbmNzeG51d2xaOWdoMWx0bjEtWDRMNEhSNzN4WUV3MlZldFJsdmtKek11a2tiSGpUaTdtbXNhZ2YwR0xFMDMzZnlMNk83ZEZSeUZ2TWE1bUs2N3FwUEdiNVhMb0dsakhCQi1PWGNmdTNpV2NB?oc=5",
+      "published": "2026-11-17T15:30:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
       "link": "https://www.skysports.com/boxing/news/12183/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing",
       "published": "2026-11-17T12:36:00+00:00",
@@ -136,6 +171,12 @@
       "link": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
       "published": "2026-11-17T10:00:09+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Boxer Lee Reeves dies aged 31 after injuries from a fight",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2lDRWtXZE9ObjdGNjR2OTAzLTlBNG9WR0ViSy1paGRjOWl2MlZKWkdtTEtzVnBwMmlrc1dyMVM2YlhoaTcwNGk0djVLb0tzel85SEpkb2gyX1lIbklQcjBSMlN1cnpzR2hQLW9Ecm1hSG1pYlBJcWVmVkdoYzh5TzNVTXllQmdFLTkw?oc=5",
+      "published": "2026-11-17T08:54:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Irish boxer Reeves dies aged 31 following three months in coma",
@@ -180,6 +221,12 @@
       "source": "Sky Sports"
     },
     {
+      "title": "Kayla Harrison could take on a familiar foe in next fight",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGxrZjIyZTFQU3VCRXZSbUd4VnVXbjJhV0FqbldvT1F6cVV1b3pidzc0TERhQTVVUGNsZXplLV9UN2x0RS11azZ5d1pnODdyY3EyajF3RzBDVFhlTTFxU0twbk5NaVA2ZXEtaUNuaGtvanNhLUc3Y0JyQjdNRUVxS1ZkZ1V1eTg5QkticnF6MXA1UQ?oc=5",
+      "published": "2026-11-16T12:47:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Can Price have her Taylor moment?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pmt9lq?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16T05:00:00+00:00",
@@ -196,6 +243,18 @@
       "link": "https://www.skysports.com/boxing/news/12183/13612527/johnny-fisher-wants-to-fight-kristian-prenga-the-man-who-almost-derailed-tyson-fury-vs-anthony-joshua-early-next-year",
       "published": "2026-11-15T17:12:00+00:00",
       "source": "Sky Sports"
+    },
+    {
+      "title": "Gane deserves a home fight; Nunes fought right into Harrison's hands",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemdWMmdkQTgySFlGak9tZlVxZ3h0b1dmeG9VUHozaGhiNVNxT0dyUzlzLTNKMDJEOVU3NGw3WjNGYVpOUlZLTTBza1FKdHlZTmF3Ty1QZ01JOUt0SERNZGJEbUpLelNOdlcwaVdHMnExNlhwLV9QS2VvV2RBVHpHN2c0THJhOEtTMlhKLXZ0X3A4T1E?oc=5",
+      "published": "2026-11-15T07:57:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Ciryl Gane survives early onslaught, edges Josh Hokit in UFC 334 main event",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmZ5N2dMUERyUThFVUU1UkllX255dXlPcHg5S3pWWXFfNGgtVzNMaGVYOHRYZlF3OW85Q1lSeVFDU0M2RFlvZzhtV0hTQTJoQTlPSkRvaXlfMVprTFJJSU4tOTBqbVp3ZzNET1JiTEtESHRmU0VXR0t6Q004U3c1QjRFV210X0VNSk9PVTRxWlNVQWw5WXNTalBDeXozLWp6RVZ3cjB3?oc=5",
+      "published": "2026-11-15T06:06:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Barrett stops Gwynne for vacant lightweight title",
@@ -240,16 +299,40 @@
       "source": "Sky Sports"
     },
     {
+      "title": "Chantelle Cameron, Mikaela Mayer to rematch on Jake Paul Dec. 24 undercard",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlhDeGNrQVczM2xNdHB1YzMyel9HTjZTVm5mZFF2NUluTW9wT0FfSGswN0dsZXVoQTRfT3NOQ2JuaEZnVTE3V3pza0RDcTFMaFEyXzU5cmdBYkNaeW9vRWVwQU1rLVpVOVNZQnF4WG9oTnVUS0NodmRXVFd1Sk9zaGdnNjVnUkpFSDJEOFFqV2RIdU0?oc=5",
+      "published": "2026-11-13T11:01:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Cameron to reignite Mayer rivalry in rematch on Jake Paul bill",
       "link": "https://www.skysports.com/boxing/news/12183/13611811/chantelle-cameron-vs-mikaela-mayer-rematch-confirmed-on-undercard-for-jake-paul-vs-cedric-doumbe-on-christmas-eve",
       "published": "2026-11-13T11:00:00+00:00",
       "source": "Sky Sports"
     },
     {
+      "title": "Overeem-Manuwa boxing match added to Dec. 24 Paul-Doumbé card",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGw2R2tVbjRxdjdacjhtcWs2SWZaYnl5cTJFTWJUWXgwVzNfWkZLZVNyQzdCbUYtSjhUVnlhTlhLMUZ5dGw0clBzTnJJWnRHR2lERWdjSXlqbVhPTWV2b3VhR2ZJRnN5YmhGVjk1cndHV0hoRWd5U2tseHBQUUY3ODhwTjV6WW9HTE1aZnZlNnJVRnd4c2xlaG0zdGV2Z29jT1pjMy1EQks?oc=5",
+      "published": "2026-11-12T14:41:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Baumgardner's win shakes up women's boxing pound-for-pound rankings",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakhkTUNoSzYzdTM4TDRBSEh1dWFkWEFKWEExUjhpVW1JdjBaOFhLSkktcEZkSHZ1LW0tczNOeFpGYUZpcG5EcDVkd2JIQmhMb3RtTHhQaFVNeGpuQzZLc0oyUFE3WDdfdWhLVlYtT2xCSHlTdHNXSllNZktWbFNNbjNiV2lTOEhm?oc=5",
+      "published": "2026-11-12T12:53:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Overeem vs Manuwa added to Jake Paul's Christmas Eve fight card",
       "link": "https://www.skysports.com/boxing/news/12183/13611310/alistair-overeem-vs160jimi-manuwa-added-to-jake-pauls-christmas-eve-fight-card-in-dubai",
       "published": "2026-11-12T08:10:00+00:00",
       "source": "Sky Sports"
+    },
+    {
+      "title": "'Boots' Ennis to fight Josh Kelly in three-belt unification",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZHZHNTcUliMGRsWVVHM3NnRXNrWUtFdzhlamxUblJmcFkxZmUtek9WcEdTdGdiaFY5Zk1nemVzX0lIRGEtM0F5WHczQnJ0U0VwdVpvbXQxTXlEZmR4M1g0WEY3YjlkcmtCdGpDTEZ2UXd5VWpIazdZeTdKaWJkVkNOOGlLMEtIbU1J?oc=5",
+      "published": "2026-11-11T22:40:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Bakole and Vanhouter added to Fury vs Joshua undercard",
@@ -262,6 +345,12 @@
       "link": "https://www.skysports.com/boxing/news/12183/13611075/jake-paul-claims-he-only-needs-one-punch-to-knock-out-cedric-doumbe-ahead-of-christmas-eve-showdown-in-dubai",
       "published": "2026-11-11T15:14:00+00:00",
       "source": "Sky Sports"
+    },
+    {
+      "title": "Jarrell Miller to face Olympic medallist Tony Yoka in Ghana",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmJRWDk4V1NoWkpwTnN0NExUT1A3WW1zbDc2UTQ5V01acmtxbEhGSm9vX2FxbmdKbVV6bDhoY2tGNlZ4Q2k4RThWTVI3ZzRrZHYwclZHcE5WVE82QnRTcExZeTFtaC15eldyZjN3eUlUY3Rqd2trWC0zNUhwT0NmWDhXOTQ?oc=5",
+      "published": "2026-11-11T13:31:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Fury v Joshua fight faces objections over 3am finish",
@@ -358,6 +447,12 @@
       "link": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
       "published": "2026-10-17T22:30:18+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Boxing champions list",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZdHpfajFwV29rZGhxTEF5NGZwWkNWVEFpV2dvM2NKNmdDb0RORXN3blh3bnhHUC00WXJkZnN1N1JaQTBpd21ya1pWMXNvakVyTHFSZk1pcS0tRWJDMVI1TENqZWY2Sm1wWjFQUEkwNkFhOHNnbmdUTQ?oc=5",
+      "published": "2018-04-05T06:44:31+00:00",
+      "source": "ESPN (via Google News)"
     }
   ]
 }
