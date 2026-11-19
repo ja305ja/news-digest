@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T04:57:11+00:00",
+  "last_updated": "2026-11-19T04:57:51+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -12,15 +12,10 @@
       "count": 15
     },
     {
-      "source": "ESPN",
-      "ok": false,
-      "count": 0,
-      "error": "ValueError"
-    },
-    {
       "source": "ESPN (via Google News)",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 15,
+      "error": "ValueError"
     },
     {
       "source": "Sky Sports",
