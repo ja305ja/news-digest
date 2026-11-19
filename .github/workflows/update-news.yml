@@ -36,3 +36,4 @@ jobs:
             git commit -m "Update boxing headlines ($(date -u +'%Y-%m-%d'))"
             git push
           fi
+# refresh
