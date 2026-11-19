@@ -1,5 +1,363 @@
 {
-  "last_updated": null,
-  "feeds": [],
-  "items": []
+  "last_updated": "2026-11-19T04:36:16+00:00",
+  "feeds": [
+    {
+      "source": "BBC Sport",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "source": "The Guardian",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "source": "ESPN",
+      "ok": false,
+      "count": 0,
+      "error": "ParseError"
+    },
+    {
+      "source": "Sky Sports",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "source": "Bad Left Hook",
+      "ok": true,
+      "count": 10
+    }
+  ],
+  "items": [
+    {
+      "title": "Tenshin Nasukawa vs Antonio Vargas leads January 11th Prime Video tripleheader",
+      "link": "https://www.badlefthook.com/boxing-news/120488/tenshin-nasukawa-vs-antonio-vargas-leads-january-11th-prime-video-tripleheader",
+      "published": "2026-11-18T18:57:29+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Price fighting to be Wales' first undisputed world champion",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6pw4xyr84yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T16:10:46+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "‘Coming back with a better game plan’: Mikaela Mayer talks upcoming rematch with Chantelle Cameron",
+      "link": "https://www.badlefthook.com/boxing-news/120483/mikaela-mayer-talks-upcoming-rematch-with-chantelle-cameron-boxing-news-2026",
+      "published": "2026-11-18T15:46:36+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Verhoeven to fight Wilder? 'He's always up for a big fight!'",
+      "link": "https://www.skysports.com/boxing/news/12183/13613615/rico-verhoeven-could-the-kickboxing-superstar-step-in-to-fight-deontay-wilder-on-the-tyson-fury-vs-anthony-joshua-bill",
+      "published": "2026-11-18T14:20:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Opetaia out of Wilder fight on Fury-Joshua card",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq1md5ppd2mxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:15:35+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Opetaia out of Wilder bout on Fury-AJ undercard",
+      "link": "https://www.skysports.com/boxing/news/12183/13613336/fury-vs-joshua-undercard-jai-opetaia-has-withdrawn-from-heavyweight-bout-with-deontay-wilder-on-december-11-bill",
+      "published": "2026-11-18T09:20:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Linares in ICE detention and facing deportation",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T07:34:53+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "WBC 'absolutely' backs Kabayel title unification with Fury-AJ winner",
+      "link": "https://www.skysports.com/boxing/news/12183/13613353/wbc-boss-mauricio-sulaiman-absolutely-supports-agit-kabayel-title-unification-for-tyson-fury-vs-anthony-joshua-winner",
+      "published": "2026-11-18T06:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "‘It’s a stupid fight’: Jermell Charlo trashes Erislandy Lara vs Tim Tszyu fight, looks forward to fighting Brock Jarvis",
+      "link": "https://www.badlefthook.com/boxing-news/120477/jermell-charlo-trashes-erislandy-lara-vs-tim-tszyu-fight-looks-forward-to-fighting-brock-jarvis-boxing-news-2026",
+      "published": "2026-11-18T01:09:47+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+      "link": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+      "published": "2026-11-17T22:43:15+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Billam-Smith 'devastated' but grateful after loss",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/ckyvd3d23vl2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T18:46:06+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Richard Riakporhe offers to fight Deontay Wilder on Fury-Joshua card",
+      "link": "https://www.badlefthook.com/boxing-news/120467/richard-riakporhe-offers-to-fight-deontay-wilder-on-fury-joshua-card",
+      "published": "2026-11-17T18:09:24+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Former three-division world champion Jorge Linares detained by ICE",
+      "link": "https://www.badlefthook.com/boxing-news/120464/former-three-division-world-champion-jorge-linares-detained-by-ice",
+      "published": "2026-11-17T18:00:26+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Oscar Collazo to face Joey Canoy after ducking Ryusei Matsumoto",
+      "link": "https://www.badlefthook.com/boxing-news/120460/oscar-collazo-to-face-joey-canoy-after-ducking-ryusei-matsumoto",
+      "published": "2026-11-17T17:29:05+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Jai Opetaia pulled from Deontay Wilder fight on Fury-Joshua",
+      "link": "https://www.badlefthook.com/boxing-news/120456/jai-opetaia-pulled-from-deontay-wilder-fight-on-fury-joshua",
+      "published": "2026-11-17T16:26:29+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
+      "link": "https://www.skysports.com/boxing/news/12183/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing",
+      "published": "2026-11-17T12:36:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "The boxer who lost 45kg and fought depression to chase a dream",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c3y0eedpd05ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T11:39:44+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Rocky is Philadelphia’s founding myth – and 50 years later, we’re still telling it",
+      "link": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
+      "published": "2026-11-17T10:00:09+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Irish boxer Reeves dies aged 31 following three months in coma",
+      "link": "https://www.skysports.com/boxing/news/12183/13613108/irish-boxer-lee-reeves-dies-aged-31-three-months-after-suffering-serious-injuries-in-fight",
+      "published": "2026-11-17T07:47:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Irish boxer Reeves dies aged 31 after three months in coma",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T07:18:08+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "From Watford to world champion",
+      "link": "https://www.bbc.co.uk/sport/boxing/videos/c6x2v444m171o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17T06:30:41+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Gervonta Davis teases spring return against George Kambosos",
+      "link": "https://www.badlefthook.com/boxing-news/120451/gervonta-davis-teases-spring-return-against-george-kambosos-boxing-news-2026",
+      "published": "2026-11-17T01:49:08+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "‘That’s when I know the fight is mine’: Keith Thurman discusses his approach to fighting Vergil Ortiz",
+      "link": "https://www.badlefthook.com/boxing-news/120447/keith-thurman-discusses-his-approach-to-fighting-vergil-ortiz-boxing-news-2026",
+      "published": "2026-11-17T00:06:31+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "‘She doesn’t even want to mention my name’: Caroline Dubois says Alycia Baumgardner running scared",
+      "link": "https://www.badlefthook.com/boxing-news/120443/caroline-dubois-says-alycia-baumgardner-running-scared-boxing-news-2026",
+      "published": "2026-11-16T23:30:32+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Eubank Jr and Brook in talks over blockbuster British battle",
+      "link": "https://www.skysports.com/boxing/news/12183/13612955/chris-eubank-jr-vs-kell-brook-british-rivals-are-holding-talks-for-a-blockbuster-battle-but-terms-are-yet-to-be-agreed",
+      "published": "2026-11-16T17:46:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Can Price have her Taylor moment?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pmt9lq?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T05:00:00+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Cardiff's Kronk? The gym where Welsh champions train",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmy4xxqv150yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16T04:16:50+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Fisher wants fight with AJ dangerman Prenga early next year",
+      "link": "https://www.skysports.com/boxing/news/12183/13612527/johnny-fisher-wants-to-fight-kristian-prenga-the-man-who-almost-derailed-tyson-fury-vs-anthony-joshua-early-next-year",
+      "published": "2026-11-15T17:12:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Barrett stops Gwynne for vacant lightweight title",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmkg579gd821o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15T06:04:32+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Adames beats Welshman Warburton by unanimous decision",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T20:27:04+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Adames slams Warburton for 'just surviving' in 10-round domination",
+      "link": "https://www.skysports.com/boxing/news/12183/13612317/carlos-adames-slams-gerome-warburton-after-10-round-domination-he-could-have-done-more-but-he-was-just-surviving",
+      "published": "2026-11-14T19:01:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "McKenna to defend world title live on Sky Sports on December 4",
+      "link": "https://www.skysports.com/boxing/news/12183/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4",
+      "published": "2026-11-14T16:50:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "WILD first round in Riyadh: Knockdown missed as Boymatov wins by KO!",
+      "link": "https://www.skysports.com/watch/video/13612177/wild-first-round-in-riyadh-knockdown-missed-as-boymatov-wins-by-ko",
+      "published": "2026-11-14T12:40:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "England boxer missed Worlds over sex-test mix-up",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:43:44+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Adames fights Warburton as Bentley targets 2027 bout with champion",
+      "link": "https://www.skysports.com/boxing/news/12183/13612025/carlos-adames-fights-gerome-warburton-as-denzel-bentley-targets-shot-at-wbc-middleweight-world-champion-next-year",
+      "published": "2026-11-14T07:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Cameron to reignite Mayer rivalry in rematch on Jake Paul bill",
+      "link": "https://www.skysports.com/boxing/news/12183/13611811/chantelle-cameron-vs-mikaela-mayer-rematch-confirmed-on-undercard-for-jake-paul-vs-cedric-doumbe-on-christmas-eve",
+      "published": "2026-11-13T11:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Overeem vs Manuwa added to Jake Paul's Christmas Eve fight card",
+      "link": "https://www.skysports.com/boxing/news/12183/13611310/alistair-overeem-vs160jimi-manuwa-added-to-jake-pauls-christmas-eve-fight-card-in-dubai",
+      "published": "2026-11-12T08:10:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Bakole and Vanhouter added to Fury vs Joshua undercard",
+      "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
+      "published": "2026-11-11T20:58:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Doumbe 'only needs one punch' to KO Paul",
+      "link": "https://www.skysports.com/boxing/news/12183/13611075/jake-paul-claims-he-only-needs-one-punch-to-knock-out-cedric-doumbe-ahead-of-christmas-eve-showdown-in-dubai",
+      "published": "2026-11-11T15:14:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Fury v Joshua fight faces objections over 3am finish",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd172l2nedo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T12:01:04+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Why Fury was born to fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/videos/cwx29gd12xjko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11T06:24:24+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Watch: Rivals - Fury v Joshua on BBC iPlayer",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034cyd?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10T06:00:00+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Ramla Ali wins first world titles at 36 with highly controversial split decision",
+      "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
+      "published": "2026-11-09T06:20:34+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
+      "link": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
+      "published": "2026-11-06T11:00:52+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+      "link": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+      "published": "2026-11-05T11:00:22+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Deontay Wilder to face unbeaten Opetaia on Fury v Joshua undercard in Cardiff",
+      "link": "https://www.theguardian.com/sport/2026/nov/04/deontay-wilder-jai-opetaia-fury-joshua-undercard-cardiff-boxing",
+      "published": "2026-11-04T18:53:42+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The Greatest review – Amazon’s sturdy Muhammad Ali series is a tale told too many times",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/04/the-greatest-amazon-muhammad-ali-series-review",
+      "published": "2026-11-04T10:00:02+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics",
+      "link": "https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics",
+      "published": "2026-11-03T07:30:41+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Canelo Álvarez defeats Christian Mbilli for WBC super-middleweight championship – as it happened",
+      "link": "https://www.theguardian.com/sport/live/2026/oct/31/canelo-alvarez-v-christian-mbilli-wbc-super-middleweight-championship-live-buildup",
+      "published": "2026-10-31T23:41:41+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Canelo Álvarez wins back world title as Houthi attacks cast shadow over Riyadh",
+      "link": "https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
+      "published": "2026-10-31T23:26:06+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘If my brother hadn’t died, my life would be so different’: Olympic boxer Ramla Ali’s incredible journey",
+      "link": "https://www.theguardian.com/film/2026/oct/22/ramla-ali-olympic-boxer-interview-in-the-shadows-film",
+      "published": "2026-10-22T13:28:59+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘My time, my era’: Dubois sends out warning to rivals with Wardley demolition",
+      "link": "https://www.theguardian.com/sport/2026/oct/18/daniel-dubois-fabio-wardley-wbo-heavyweight-title-rematch-boxing",
+      "published": "2026-10-18T13:53:32+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
+      "link": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
+      "published": "2026-10-18T05:06:35+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Daniel Dubois knocks out Fabio Wardley to retain WBO heavyweight title – as it happened",
+      "link": "https://www.theguardian.com/sport/live/2026/oct/17/daniel-dubois-fabio-wardley-ii-boxing-wbo-heavyweight-title-fight-live",
+      "published": "2026-10-17T22:39:05+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Daniel Dubois delivers devastating second-round stoppage of Fabio Wardley to retain WBO title",
+      "link": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
+      "published": "2026-10-17T22:30:18+00:00",
+      "source": "The Guardian"
+    }
+  ]
 }
