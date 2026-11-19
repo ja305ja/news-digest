@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T04:58:29+00:00",
+  "last_updated": "2026-11-19T04:58:59+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -28,12 +28,6 @@
     }
   ],
   "items": [
-    {
-      "title": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlHdHZHNUNPUXpaYVY2YUhaZUpfZjhFaEhLbk5uRXlPOXc2VEhXekRuTGlUM3Y3aFZmaDNEQWZhY0dSVzk0aTdvN2hVYTdwT1lvSDJ6amk3OVhzVjdwbGhOaS1YbEV5bVprTnQxcVlpdzZnVjhCZVVqLXJ6dlhCZEN3SzBhOVVpWWVHZTBhb0VranpUcG95OEFGVlBYM25WVHVQYzNUdw?oc=5",
-      "published": "2026-11-18T22:17:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
     {
       "title": "Tenshin Nasukawa vs Antonio Vargas leads January 11th Prime Video tripleheader",
       "link": "https://www.badlefthook.com/boxing-news/120488/tenshin-nasukawa-vs-antonio-vargas-leads-january-11th-prime-video-tripleheader",
@@ -275,6 +269,12 @@
       "source": "ESPN (via Google News)"
     },
     {
+      "title": "Baumgardner's win shakes up women's boxing pound-for-pound rankings",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakhkTUNoSzYzdTM4TDRBSEh1dWFkWEFKWEExUjhpVW1JdjBaOFhLSkktcEZkSHZ1LW0tczNOeFpGYUZpcG5EcDVkd2JIQmhMb3RtTHhQaFVNeGpuQzZLc0oyUFE3WDdfdWhLVlYtT2xCSHlTdHNXSllNZktWbFNNbjNiV2lTOEhm?oc=5",
+      "published": "2026-11-12T12:53:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Overeem vs Manuwa added to Jake Paul's Christmas Eve fight card",
       "link": "https://www.skysports.com/boxing/news/12183/13611310/alistair-overeem-vs160jimi-manuwa-added-to-jake-pauls-christmas-eve-fight-card-in-dubai",
       "published": "2026-11-12T08:10:00+00:00",
@@ -329,10 +329,34 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Alycia Baumgardner a two-division world champ after defeating Elif Nur Turhan",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSF9hZ1EzbENPM191N2htTlgxc3JtMGl5QW9IZ0EzNU5VWGNiOGFlTjl0LTRSeEo3N0VBbmR3U3ZMYnQ0QlVhVk8zbzV5S25oQUV5enNtam1fMWZuZGRRbm90dFZIRmV4YkxsWjZ0TlVaeUFXMW5XaUxCcGJSWGRLNTllZVRGdzY3NUM5OWRzWVRuSDlkNmQ2QWtkaVp3ZklwZklqbWlBd0d1a00?oc=5",
+      "published": "2026-11-09T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Ramla Ali wins first world titles at 36 with highly controversial split decision",
       "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
       "published": "2026-11-09T06:20:34+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Caroline Dubois calls out 'disrespectful' Alycia Baumgardner, eyes '27 clash",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG5scWp2WlEzV25VSHFyYVJlWlkxWmNoTC1TZ3VvcExPdFNhX01iU2hnS25Bdmp2NFcxWXdpV3NpTVhwSC0wemdTTEZIS0s0T2prMzBrQTNpd2RvTXFWemM0WnhBZnI2bm1qODU4Z05KdTdhbWd4bWlEY29felU5NGtfSnBYeHRSa1hCdk5Yc21wYnRvcThGQ3A1VUZ3dHhrdm5UbGdn?oc=5",
+      "published": "2026-11-08T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Willy Hutchinson beats Joshua Buatsi to win WBC light heavyweight title",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZ1Y3RaWjV6N0N1dU9uenZpT0tvdTRYRUpLSE5mNmtiSVFBZ2JmZ083WWpkd1Baa3h5Y0NUcmVnakg3djJ0b2VDdnkyUktsWmZQUjZpZjV6Unc5b3FxUEZLWTVZTUM1WFpreTlnclQ0bERMek8ybGI3cTdELWRwTVR5dVVCWjhEVmt4SHozT0ZZS0pCQTdWQ29fZEZDZkZuUkIxOHlpekJXMDkzVHhuUkJoOGljenM?oc=5",
+      "published": "2026-11-07T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Joshua Buatsi vs. Willy Hutchinson: How to watch in UK, ring-walk time, date, TV channel, undercard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVd5U1FfZHowbjZpczJfNkJkcXZGR3VpY05SR0FwVnRUOFJ0UFI0dDJSR2ZYQ0VheG10UzBVZUJBOVBJNWduTEpLaFlScmdNdlM1MWhGZmdVTjhHM01lM3ZUUm5wbDJZXy1iMEVEVU9TY1MzSWxJUWxxaHdLSDJjc3NsbTJEbTJPOExQRFdxV01heWFYVHNvLW51MjNNWXM0bzZqaWRWOUFvZVB4ZVQzd2Y5VjhNeGhuNkdtcEx4SHlnNXpWTVczOXBGcVJfLWs?oc=5",
+      "published": "2026-11-07T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
@@ -347,6 +371,12 @@
       "source": "The Guardian"
     },
     {
+      "title": "With Taylor, Serrano retiring, Baumgardner eyes the spotlight",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2hvcXNLSFBCRGtKZW50M0RqSjZUMnRITHZJWUE2V1JsSEJmdFRNRkN3SW5oV1VxUVBSMFg2b0I3dWJQb08xM0p5YlpjY1diclRtelJfeDlhMWMxSlBiRVlJZGY3a3VHclJ5aUlBRDRkUmtEWW42QWNQdDFRcHY1eUt6UQ?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Deontay Wilder to face unbeaten Opetaia on Fury v Joshua undercard in Cardiff",
       "link": "https://www.theguardian.com/sport/2026/nov/04/deontay-wilder-jai-opetaia-fury-joshua-undercard-cardiff-boxing",
       "published": "2026-11-04T18:53:42+00:00",
@@ -359,10 +389,22 @@
       "source": "The Guardian"
     },
     {
+      "title": "Men's boxing pound-for-pound rankings: Canelo Alvarez returns to the top 10",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEtuU1BUeDBZOWcyWXJYcVVUZzN4TFVjMVgyaVlTdUpvenI0c2hnSVVIRnp6bFJjVzBTZDIwUlZNYTlrNkxPcjJuWTNBRWNoMXNNamwwQ196LXh2cFI1UFpKWGJ5azZ4ZnBGN0lsOGM4Q1luY3ozVXZUczhWX2FCTnZsT3lKaFJ4eGc?oc=5",
+      "published": "2026-11-04T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "‘I’ve been chased and shot at’: Denzel Bentley on trauma, street violence and brutal boxing politics",
       "link": "https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics",
       "published": "2026-11-03T07:30:41+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Opetaia, Nyika facing potential battle for right to face Usyk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1FzS2lyUTlwc3J3Rkx4R3ltaUVwS3AxTmhTbG9FM3UxTDVXUnpjWUJaNnFid2xFQ0dZNlh0MXlMNnBxcl9HcE85UVg3aFdvMGdsVm9CcGNDM09JaFQzLWtEZjRrUmU1NWZoYmZZWEdxcGVhQjJmSVI0eEI5N0xyaTVNM3NKdlJsdDItU1psYlMtRGNt?oc=5",
+      "published": "2026-11-01T07:00:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Canelo Álvarez defeats Christian Mbilli for WBC super-middleweight championship – as it happened",
@@ -375,12 +417,6 @@
       "link": "https://www.theguardian.com/sport/2026/oct/31/canelo-alvarez-christian-mbilli-wbc-world-title-riyadh-boxing",
       "published": "2026-10-31T23:26:06+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Edgar Berlanga arrested, facing domestic charges in Florida",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHpKNm1oVXZOaUdEQXh4ZHJfSFloQVN5cGZfLWwwRG5xNWxQR1FyUU5vUGcxX3h6WE9VTzNQcXBfWk0xUmFXeFVJNm5LYVZTb3lmUUdqZjBVRFFLWFVaSjZGdGtaUXpoVzBjdzZuT3JYcVRDT1pEamQ0ZnhxNlpCenRRdFI5UkNLNjVPU3VkeU9Sd29xUXcxWVNlX21zUQ?oc=5",
-      "published": "2026-10-27T07:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "‘If my brother hadn’t died, my life would be so different’: Olympic boxer Ramla Ali’s incredible journey",
@@ -411,42 +447,6 @@
       "link": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
       "published": "2026-10-17T22:30:18+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Turki Alalshikh tells ESPN he has plan to fix 'broken' boxing",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEczdzdpSmRXS2ROM0FuRUxCR2RIRHV4NkJqRVN3cmVvU1Y2S2VUeFBSUDFXRWh2WEdBRzJGS0drV2wydk9CNjI0R1JVazljVU5tSWpsMjM5eVRBWGxJVWxMLU9PYmNiMUJaMTRDS1BWaDJkMmdfRkZrSjNNanNvTl81LUoyTUNNdnVpaFdRc1kwTDl2N2FXVGNn?oc=5",
-      "published": "2024-05-06T07:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Hall of Fame boxers Vitali, Wladimir Klitschko plan to fight for Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkh0Z3k4VjZHYXpGU3M4T3lkZ2h5VHFnbnJ5R3JIaWNKVDJ4UERuUnJzZl9zMHc2U1JqTHlxU2tReFRac1dqNUtYeFZEcXNJdXZIbWFBVVgtY0E1b2k1UmVaZ1g5SkxWWEVNOTY2TnpMQWpwYjN1VmNkWFpGUENydkswWUN3MTZFX0x3Y0gtS0tZZnZkeTlvanZTcEZSMjFCZ2tmbHFBZWNWVVFEcW5DdmJmWEF3Mk91ejNKdQ?oc=5",
-      "published": "2022-02-24T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Boxing champions list",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZdHpfajFwV29rZGhxTEF5NGZwWkNWVEFpV2dvM2NKNmdDb0RORXN3blh3bnhHUC00WXJkZnN1N1JaQTBpd21ya1pWMXNvakVyTHFSZk1pcS0tRWJDMVI1TENqZWY2Sm1wWjFQUEkwNkFhOHNnbmdUTQ?oc=5",
-      "published": "2018-04-05T06:44:31+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Mayweather Promotions files for 'TMT 50,' 'TBE 50' trademarks",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOF9kMGRmNzg2QXdpZlkwR3h6SDhXOWdEZWRobUc3SGRjS1dhYnlObE83TzFLUU1uQ0hPSGZneDdrNEJGTXQ5ZXVUWHl1cFk2ZjFNWk1sYk8wNTZ1TEpBRlEzT3h6Nm0zVDJsSDRfRXh3N3BjbDY5ZDZUV2RGN3RCSEcwSHhGQWUxMmNMd0pSNzh5cHg1WW9N?oc=5",
-      "published": "2016-05-01T07:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Nike cuts ties with Manny Pacquiao after derogatory comments",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHk5MHpLa3ZEWVdFMlpLVGk3dFlLUnIzbElTZERaNjd2VDNwZ0FTTDBLR01UZHBpUzUwSlR4b0s5cFdqRjZHMEpvV19WemRuTXhSdmhEdXlveER2b2h2VFJLdVFkT3VqNXk4bW84RGIzZmlJRVo4NWNEaUZUWVJJaWFtd2JvUF94RHFlTVN6OFpiTkl4Rnh4QQ?oc=5",
-      "published": "2016-02-17T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Floyd Mayweather Jr. stripped of WBO welterweight title",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUdWS1NWTGYtOHo2dFl4eTQtdC1lVzAwdzl2REd0RHh0Q1QwZTd1VDFlQTUyVWRNaTI1UkgtSHRnR1hRXzMwZS1NcGFGU1JxcUR0b2dwMWI0QTNrekxLQ2lfNmt0YzF2N3E2S2MzTHBnMDF1emtqMG1GOWZzbG04X3NlMUZqR3ZDUlNkRWtTblhwbHBfYi1udElDR1ZYdWkt?oc=5",
-      "published": "2015-07-06T07:00:00+00:00",
-      "source": "ESPN (via Google News)"
     }
   ]
 }
