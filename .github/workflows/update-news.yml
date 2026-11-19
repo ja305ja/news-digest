@@ -1,0 +1,38 @@
+name: Update boxing news
+
+on:
+  schedule:
+    - cron: "17 11 * * *"   # every day at 11:17 UTC (early morning in the Americas, midday in Europe)
+  workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch headlines
+        run: python fetch_news.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update boxing headlines ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
