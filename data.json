@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T19:30:02+00:00",
+  "last_updated": "2026-11-20T19:06:10+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -28,6 +28,42 @@
     }
   ],
   "items": [
+    {
+      "title": "Clarke: 'I am world class, I was just waiting for the world to see'",
+      "link": "https://www.skysports.com/boxing/news/12183/13614327/cheavon-clarke-ive-always-been-world-class-i-was-just-waiting-for-the-world-to-catch-up-and-see-it",
+      "published": "2026-11-20T17:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "‘That fight will take place February 6’: Oscar De La Hoya says Ryan Garcia will unify titles with Teofimo Lopez next",
+      "link": "https://www.badlefthook.com/boxing-news/120500/oscar-de-la-hoya-says-ryan-garcia-will-unify-titles-with-teofimo-lopez-next-boxing-news-2026",
+      "published": "2026-11-20T13:20:59+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Whyte offers to fight Wilder - 'They know where I am'",
+      "link": "https://www.skysports.com/boxing/news/12183/13614086/dillian-whyte-offers-to-fight-deontay-wilder-on-december-11-if-wilder-wants-it-they-know-where-i-am",
+      "published": "2026-11-20T06:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "History, hunger and headline bills - why Price is box office",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/crwy8e7d5lj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T05:32:13+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Senate passes Muhammad Ali American Boxing Revival Act",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjFmQXVFbFFXUzNYR2U0LXFDaUE1Sm9jTmpEdUdBZzFsTFdwQ3E5QkZvVDBHNmhHdE9NVGRaS2pKTGxUeDBUUTFfMHZDWHNHbE01ODBWVnVyNGx4T0xrZE5iUGFqd0d0b0dYOTA4LWpLQ0ktNVROOU9EeW0zVWVxXzhUcXZFTjl0b2JXV3Z2U0NIUnA4WTNVOGdyYTBZUHlyeV9GaQ?oc=5",
+      "published": "2026-11-19T23:15:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Explaining what's behind the Muhammad Ali Boxing Revival Act",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3c1TFA0VmlVaFZzcFhlOGNwTHlnWkpNU3dOc01Db29Xbk01alpKY1NfVUR4OWQ5aWN2MDBIT3AzNHVoZld4WlpYeWQ5emhhazhZR2ZKbnVOMGYzZmF6b0gxbW1iMXhncFBxSGhiYzFXc25KaTVWamZLdFJZUUpfMUYwdWFVck9LcWc?oc=5",
+      "published": "2026-11-19T23:11:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
     {
       "title": "Felony charges against Floyd Mayweather Jr. over bad $200K check dismissed",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXB4U1hMcVIxRFdnMHY2eWljeTJCSGNpLWtiSzFMMXdTRVFlZkZNUkVTTG9DdE9PbEZfUk9Bajc2alA3VUdaZlh5d3RTRzJ3UUJybEpiOTVoSjZBVmdfYV9jbHRqaUxNZ0pGQzNKdXZqd1ZNUWxyY05lbmZCTEc1MjZiSVhfR0llckVTcmJ6SVEzcHVTMzF1Z3dHZmQ3TlE?oc=5",
@@ -71,12 +107,6 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Tyson Fury vs. Anthony Joshua undercard: Why Eddie Hearn called it 'a disgrace'",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDBLSXlOd0pndDlDa29ZTzJnbnhRRzFla3VhN0hYU01NUDhVTlI4bUlsdFF5WnE3cFpCT1FSY2JkZUJXdmI1V3FXNVQzRFp2NWtSMWU0UWxYMnd3Y1pjNUJyeHZ2eEdvRTdUcEQ0ZU1HUDNCQ3Q5dzQyRXcxLUJpN21NalQtWlRCU19WNEM5aEZmc3BGcEUtcDNB?oc=5",
-      "published": "2026-11-19T08:59:58+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
       "title": "Joshua unable to see new baby daughter until after Fury fight",
       "link": "https://www.skysports.com/boxing/news/12183/13613842/anthony-joshua-british-heavyweight-boxer-becomes-dad-for-second-time-but-unable-to-see-daughter-until-after-tyson-fury-fight",
       "published": "2026-11-19T08:45:00+00:00",
@@ -99,6 +129,12 @@
       "link": "https://www.badlefthook.com/boxing-news/120488/tenshin-nasukawa-vs-antonio-vargas-leads-january-11th-prime-video-tripleheader",
       "published": "2026-11-18T18:57:29+00:00",
       "source": "Bad Left Hook"
+    },
+    {
+      "title": "Women's divisional rankings: Zamorano climbs at atomweight",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnFMX0F0V2lpVkowdFl1ZGNFNmRNVnpXcUk2aGEzb193ODZjdW9mVkRoM05TSnVjM1pSY3pUVjhJamFZZlZaaTZrVHpKeF9yOTRfVzVmLXlxdTc4ZEZ1cVRlcmFXRFJlUjkzbWd3b3M3eW5ieHY2TlRmN2xvMm5uaUFROUpBeWg4WTBsclFvTzFNN0lUcTRDQ1ByYmxEUTdmalZMeg?oc=5",
+      "published": "2026-11-18T17:37:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Price fighting to be Wales' first undisputed world champion",
@@ -233,22 +269,10 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Gervonta Davis teases spring return against George Kambosos",
-      "link": "https://www.badlefthook.com/boxing-news/120451/gervonta-davis-teases-spring-return-against-george-kambosos-boxing-news-2026",
-      "published": "2026-11-17T01:49:08+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
       "title": "Eubank Jr and Brook in talks over blockbuster British battle",
       "link": "https://www.skysports.com/boxing/news/12183/13612955/chris-eubank-jr-vs-kell-brook-british-rivals-are-holding-talks-for-a-blockbuster-battle-but-terms-are-yet-to-be-agreed",
       "published": "2026-11-16T17:46:00+00:00",
       "source": "Sky Sports"
-    },
-    {
-      "title": "Can Price have her Taylor moment?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pmt9lq?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T05:00:00+00:00",
-      "source": "BBC Sport"
     },
     {
       "title": "Cardiff's Kronk? The gym where Welsh champions train",
@@ -293,12 +317,6 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Cameron to reignite Mayer rivalry in rematch on Jake Paul bill",
-      "link": "https://www.skysports.com/boxing/news/12183/13611811/chantelle-cameron-vs-mikaela-mayer-rematch-confirmed-on-undercard-for-jake-paul-vs-cedric-doumbe-on-christmas-eve",
-      "published": "2026-11-13T11:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Overeem-Manuwa boxing match added to Dec. 24 Paul-Doumbé card",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGw2R2tVbjRxdjdacjhtcWs2SWZaYnl5cTJFTWJUWXgwVzNfWkZLZVNyQzdCbUYtSjhUVnlhTlhLMUZ5dGw0clBzTnJJWnRHR2lERWdjSXlqbVhPTWV2b3VhR2ZJRnN5YmhGVjk1cndHV0hoRWd5U2tseHBQUUY3ODhwTjV6WW9HTE1aZnZlNnJVRnd4c2xlaG0zdGV2Z29jT1pjMy1EQks?oc=5",
       "published": "2026-11-12T14:41:00+00:00",
@@ -307,19 +325,7 @@
     {
       "title": "Baumgardner's win shakes up women's boxing pound-for-pound rankings",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakhkTUNoSzYzdTM4TDRBSEh1dWFkWEFKWEExUjhpVW1JdjBaOFhLSkktcEZkSHZ1LW0tczNOeFpGYUZpcG5EcDVkd2JIQmhMb3RtTHhQaFVNeGpuQzZLc0oyUFE3WDdfdWhLVlYtT2xCSHlTdHNXSllNZktWbFNNbjNiV2lTOEhm?oc=5",
-      "published": "2026-11-12T12:53:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Overeem vs Manuwa added to Jake Paul's Christmas Eve fight card",
-      "link": "https://www.skysports.com/boxing/news/12183/13611310/alistair-overeem-vs160jimi-manuwa-added-to-jake-pauls-christmas-eve-fight-card-in-dubai",
-      "published": "2026-11-12T08:10:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
-      "title": "'Boots' Ennis to fight Josh Kelly in three-belt unification",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZHZHNTcUliMGRsWVVHM3NnRXNrWUtFdzhlamxUblJmcFkxZmUtek9WcEdTdGdiaFY5Zk1nemVzX0lIRGEtM0F5WHczQnJ0U0VwdVpvbXQxTXlEZmR4M1g0WEY3YjlkcmtCdGpDTEZ2UXd5VWpIazdZeTdKaWJkVkNOOGlLMEtIbU1J?oc=5",
-      "published": "2026-11-11T22:40:00+00:00",
+      "published": "2026-11-12T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
@@ -327,6 +333,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwdd172l2nedo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T12:01:04+00:00",
       "source": "BBC Sport"
+    },
+    {
+      "title": "'Boots' Ennis to fight Josh Kelly in three-belt unification",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0ZHZHNTcUliMGRsWVVHM3NnRXNrWUtFdzhlamxUblJmcFkxZmUtek9WcEdTdGdiaFY5Zk1nemVzX0lIRGEtM0F5WHczQnJ0U0VwdVpvbXQxTXlEZmR4M1g0WEY3YjlkcmtCdGpDTEZ2UXd5VWpIazdZeTdKaWJkVkNOOGlLMEtIbU1J?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Jarrell Miller to face Olympic medallist Tony Yoka in Ghana",
@@ -343,7 +355,7 @@
     {
       "title": "Tyson Fury, Anthony Joshua late show angers residents as license verdict nears",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnYyX1FJb0c4b2dZbFRQZ2gySWZoN0RkdWpwNTlrSEwtVFB0c2FzVVh3Si1nSDAwUUFIY3FOZUhVX0tmOG41VHN0bWJqMS1XV3RlWTVJajMxM3Y5Z3U2emI5RlBxSHlHcEhhcjh3X0hhbktxTjhvaEg2bkhyYXpocFVBTEdJYmc?oc=5",
-      "published": "2026-11-10T22:14:00+00:00",
+      "published": "2026-11-10T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
@@ -361,12 +373,6 @@
     {
       "title": "Willy Hutchinson beats Joshua Buatsi to win WBC light heavyweight title",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZ1Y3RaWjV6N0N1dU9uenZpT0tvdTRYRUpLSE5mNmtiSVFBZ2JmZ083WWpkd1Baa3h5Y0NUcmVnakg3djJ0b2VDdnkyUktsWmZQUjZpZjV6Unc5b3FxUEZLWTVZTUM1WFpreTlnclQ0bERMek8ybGI3cTdELWRwTVR5dVVCWjhEVmt4SHozT0ZZS0pCQTdWQ29fZEZDZkZuUkIxOHlpekJXMDkzVHhuUkJoOGljenM?oc=5",
-      "published": "2026-11-07T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Joshua Buatsi vs. Willy Hutchinson: How to watch in UK, ring-walk time, date, TV channel, undercard",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVd5U1FfZHowbjZpczJfNkJkcXZGR3VpY05SR0FwVnRUOFJ0UFI0dDJSR2ZYQ0VheG10UzBVZUJBOVBJNWduTEpLaFlScmdNdlM1MWhGZmdVTjhHM01lM3ZUUm5wbDJZXy1iMEVEVU9TY1MzSWxJUWxxaHdLSDJjc3NsbTJEbTJPOExQRFdxV01heWFYVHNvLW51MjNNWXM0bzZqaWRWOUFvZVB4ZVQzd2Y5VjhNeGhuNkdtcEx4SHlnNXpWTVczOXBGcVJfLWs?oc=5",
       "published": "2026-11-07T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
@@ -399,12 +405,6 @@
       "link": "https://www.theguardian.com/sport/2026/nov/03/denzel-bentley-trauma-street-violence-boxing-politics",
       "published": "2026-11-03T07:30:41+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Opetaia, Nyika facing potential battle for right to face Usyk",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1FzS2lyUTlwc3J3Rkx4R3ltaUVwS3AxTmhTbG9FM3UxTDVXUnpjWUJaNnFid2xFQ0dZNlh0MXlMNnBxcl9HcE85UVg3aFdvMGdsVm9CcGNDM09JaFQzLWtEZjRrUmU1NWZoYmZZWEdxcGVhQjJmSVI0eEI5N0xyaTVNM3NKdlJsdDItU1psYlMtRGNt?oc=5",
-      "published": "2026-11-01T07:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Canelo Álvarez defeats Christian Mbilli for WBC super-middleweight championship – as it happened",
