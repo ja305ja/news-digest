@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T19:06:10+00:00",
+  "last_updated": "2026-11-21T17:57:56+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -29,10 +29,64 @@
   ],
   "items": [
     {
+      "title": "'Best in world' Price set for Cardiff stadium fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T13:45:19+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Price makes Welsh history",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pp625c?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21T01:55:00+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Lauren Price dominates Michaela Kotaskova to become undisputed world champion",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2xoUzB6V2hqXzAwa1F3WXpUek5DUUlDOERKdWhWRzdxWDBReEJfWGRMMkpKTGJmbnNmX2pyTy1kUTI1SGNsOUJDN2RPdm5rckRxTFhpclNIN0lsNkp6UTlzVnRpVUZtUXM1YVF0MTJqd1U4dmpTTXlFNUFoM0hoajRGT0VuRWZPU1JBaFFoSkhlX2poN0JqMGozSWNhcW5nTDdPMQ?oc=5",
+      "published": "2026-11-20T23:36:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Price beats Kotaskova to become undisputed champion",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20T23:30:56+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Price makes undisputed history as she shuts out Kotaskova",
+      "link": "https://www.skysports.com/boxing/news/12183/13614565/lauren-price-makes-boxing-history-for-wales-with-first-undisputed-championship-win-as-she-shuts-out-michaela-kotaskova",
+      "published": "2026-11-20T22:32:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Report: Vergil Ortiz Jr. needs new opponent after Keith Thurman suffers injury",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkpMVFJyNHdyTm9fZFBuaWxwM1dfT3dMaXp1ME1QTnA3MVlSOVBTX3ZSZ1Rlc1gtUGtVWnY2aUhNbjVLaE1nU1dydlV3TjhZQVItSnVtekd6bXZpNkZrdFJqWGdtRDlwemN3anlyU21aUDJfTm1ISVFoT21WV0U0dENkbzE2QlFnRGFVdmZXa1U3bDMwVDBNVWF5eE5hRVdKSFUwTg?oc=5",
+      "published": "2026-11-20T19:44:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Keith Thurman injured, pulled from December 5th Vergil Ortiz Jr fight",
+      "link": "https://www.badlefthook.com/boxing-news/120511/keith-thurman-injured-pulled-from-december-5th-vergil-ortiz-jr-fight",
+      "published": "2026-11-20T18:14:22+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Dillian Whyte volunteers to step in to face Deontay Wilder",
+      "link": "https://www.badlefthook.com/boxing-news/120509/dillian-whyte-volunteers-to-step-in-to-face-deontay-wilder-boxing-news-2026",
+      "published": "2026-11-20T18:09:17+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
       "title": "Clarke: 'I am world class, I was just waiting for the world to see'",
       "link": "https://www.skysports.com/boxing/news/12183/13614327/cheavon-clarke-ive-always-been-world-class-i-was-just-waiting-for-the-world-to-catch-up-and-see-it",
       "published": "2026-11-20T17:00:00+00:00",
       "source": "Sky Sports"
+    },
+    {
+      "title": "Lee Reeves funeral: Boxer's 'legacy will live on'",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanBwWnRSMmY2UHBOU19iUEVWTjVNNnlkSjl2TnY4YXlRelVKY25yMWdONXJ5OGRDVnB0VTA2d2R3S2JmaHhkVlBZbUlFMzdIMjhYMmZfSU9XV2JleDUyOUd3LUFHVU5fb2xHbDFXUVFLTlU3SE1NS1JKeVRROEp0Y1hTV2tLcnhLZmw1QXlnaTFSQWx5X0s2RWpB?oc=5",
+      "published": "2026-11-20T14:39:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "‘That fight will take place February 6’: Oscar De La Hoya says Ryan Garcia will unify titles with Teofimo Lopez next",
@@ -62,6 +116,12 @@
       "title": "Explaining what's behind the Muhammad Ali Boxing Revival Act",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3c1TFA0VmlVaFZzcFhlOGNwTHlnWkpNU3dOc01Db29Xbk01alpKY1NfVUR4OWQ5aWN2MDBIT3AzNHVoZld4WlpYeWQ5emhhazhZR2ZKbnVOMGYzZmF6b0gxbW1iMXhncFBxSGhiYzFXc25KaTVWamZLdFJZUUpfMUYwdWFVck9LcWc?oc=5",
       "published": "2026-11-19T23:11:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Misdemeanor assault case against Devin Haney, father dismissed",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjhHWW1KblBfY05BZjgyQmRLRzllZmtETUpMdk9FclVObk1pRUxpdFdoSGw3Sm1qSkFwdFFDcVRpRmlpTURaTFNNWE91M1ZkaWVjNFdHNVJBanJDa21mcVAwbUs3R19sOFRqa3I2b2xmcE5zOVRLcFh0aGV2d3NISmQ4N0ZCa1FyQ1BDRFN6THNUQTViSkl5YnhfclJ1N3RVUEww?oc=5",
+      "published": "2026-11-19T16:56:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
@@ -137,12 +197,6 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Price fighting to be Wales' first undisputed world champion",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6pw4xyr84yyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T16:10:46+00:00",
-      "source": "BBC Sport"
-    },
-    {
       "title": "‘Coming back with a better game plan’: Mikaela Mayer talks upcoming rematch with Chantelle Cameron",
       "link": "https://www.badlefthook.com/boxing-news/120483/mikaela-mayer-talks-upcoming-rematch-with-chantelle-cameron-boxing-news-2026",
       "published": "2026-11-18T15:46:36+00:00",
@@ -215,18 +269,6 @@
       "source": "Bad Left Hook"
     },
     {
-      "title": "Oscar Collazo to face Joey Canoy after ducking Ryusei Matsumoto",
-      "link": "https://www.badlefthook.com/boxing-news/120460/oscar-collazo-to-face-joey-canoy-after-ducking-ryusei-matsumoto",
-      "published": "2026-11-17T17:29:05+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
-      "title": "Jai Opetaia pulled from Deontay Wilder fight on Fury-Joshua",
-      "link": "https://www.badlefthook.com/boxing-news/120456/jai-opetaia-pulled-from-deontay-wilder-fight-on-fury-joshua",
-      "published": "2026-11-17T16:26:29+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
       "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
       "link": "https://www.skysports.com/boxing/news/12183/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing",
       "published": "2026-11-17T12:36:00+00:00",
@@ -275,12 +317,6 @@
       "source": "Sky Sports"
     },
     {
-      "title": "Cardiff's Kronk? The gym where Welsh champions train",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmy4xxqv150yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16T04:16:50+00:00",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Fisher wants fight with AJ dangerman Prenga early next year",
       "link": "https://www.skysports.com/boxing/news/12183/13612527/johnny-fisher-wants-to-fight-kristian-prenga-the-man-who-almost-derailed-tyson-fury-vs-anthony-joshua-early-next-year",
       "published": "2026-11-15T17:12:00+00:00",
@@ -293,22 +329,10 @@
       "source": "Sky Sports"
     },
     {
-      "title": "McKenna to defend world title live on Sky Sports on December 4",
-      "link": "https://www.skysports.com/boxing/news/12183/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4",
-      "published": "2026-11-14T16:50:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "WILD first round in Riyadh: Knockdown missed as Boymatov wins by KO!",
       "link": "https://www.skysports.com/watch/video/13612177/wild-first-round-in-riyadh-knockdown-missed-as-boymatov-wins-by-ko",
       "published": "2026-11-14T12:40:00+00:00",
       "source": "Sky Sports"
-    },
-    {
-      "title": "England boxer missed Worlds over sex-test mix-up",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14T07:43:44+00:00",
-      "source": "BBC Sport"
     },
     {
       "title": "Chantelle Cameron, Mikaela Mayer to rematch on Jake Paul Dec. 24 undercard",
@@ -319,20 +343,8 @@
     {
       "title": "Overeem-Manuwa boxing match added to Dec. 24 Paul-Doumbé card",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGw2R2tVbjRxdjdacjhtcWs2SWZaYnl5cTJFTWJUWXgwVzNfWkZLZVNyQzdCbUYtSjhUVnlhTlhLMUZ5dGw0clBzTnJJWnRHR2lERWdjSXlqbVhPTWV2b3VhR2ZJRnN5YmhGVjk1cndHV0hoRWd5U2tseHBQUUY3ODhwTjV6WW9HTE1aZnZlNnJVRnd4c2xlaG0zdGV2Z29jT1pjMy1EQks?oc=5",
-      "published": "2026-11-12T14:41:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Baumgardner's win shakes up women's boxing pound-for-pound rankings",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakhkTUNoSzYzdTM4TDRBSEh1dWFkWEFKWEExUjhpVW1JdjBaOFhLSkktcEZkSHZ1LW0tczNOeFpGYUZpcG5EcDVkd2JIQmhMb3RtTHhQaFVNeGpuQzZLc0oyUFE3WDdfdWhLVlYtT2xCSHlTdHNXSllNZktWbFNNbjNiV2lTOEhm?oc=5",
       "published": "2026-11-12T08:00:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Fury v Joshua fight faces objections over 3am finish",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd172l2nedo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T12:01:04+00:00",
-      "source": "BBC Sport"
     },
     {
       "title": "'Boots' Ennis to fight Josh Kelly in three-belt unification",
@@ -341,22 +353,10 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Jarrell Miller to face Olympic medallist Tony Yoka in Ghana",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmJRWDk4V1NoWkpwTnN0NExUT1A3WW1zbDc2UTQ5V01acmtxbEhGSm9vX2FxbmdKbVV6bDhoY2tGNlZ4Q2k4RThWTVI3ZzRrZHYwclZHcE5WVE82QnRTcExZeTFtaC15eldyZjN3eUlUY3Rqd2trWC0zNUhwT0NmWDhXOTQ?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
       "title": "Why Fury was born to fight",
       "link": "https://www.bbc.co.uk/sport/boxing/videos/cwx29gd12xjko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11T06:24:24+00:00",
       "source": "BBC Sport"
-    },
-    {
-      "title": "Tyson Fury, Anthony Joshua late show angers residents as license verdict nears",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnYyX1FJb0c4b2dZbFRQZ2gySWZoN0RkdWpwNTlrSEwtVFB0c2FzVVh3Si1nSDAwUUFIY3FOZUhVX0tmOG41VHN0bWJqMS1XV3RlWTVJajMxM3Y5Z3U2emI5RlBxSHlHcEhhcjh3X0hhbktxTjhvaEg2bkhyYXpocFVBTEdJYmc?oc=5",
-      "published": "2026-11-10T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Watch: Rivals - Fury v Joshua on BBC iPlayer",
@@ -369,12 +369,6 @@
       "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
       "published": "2026-11-09T06:20:34+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Willy Hutchinson beats Joshua Buatsi to win WBC light heavyweight title",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZ1Y3RaWjV6N0N1dU9uenZpT0tvdTRYRUpLSE5mNmtiSVFBZ2JmZ083WWpkd1Baa3h5Y0NUcmVnakg3djJ0b2VDdnkyUktsWmZQUjZpZjV6Unc5b3FxUEZLWTVZTUM1WFpreTlnclQ0bERMek8ybGI3cTdELWRwTVR5dVVCWjhEVmt4SHozT0ZZS0pCQTdWQ29fZEZDZkZuUkIxOHlpekJXMDkzVHhuUkJoOGljenM?oc=5",
-      "published": "2026-11-07T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
@@ -447,6 +441,12 @@
       "link": "https://www.theguardian.com/sport/2026/oct/17/daniel-dubois-devastating-second-round-stoppage-of-fabio-wardley-retain-wbo-title-boxing",
       "published": "2026-10-17T22:30:18+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Fury v Joshua fight to provide 'big boost' to city's economy",
+      "link": "https://www.bbc.co.uk/news/articles/c6qxv75g4zx8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26T09:45:36+00:00",
+      "source": "BBC Sport"
     }
   ]
 }
