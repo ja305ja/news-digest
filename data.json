@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T22:39:13+00:00",
+  "last_updated": "2026-11-24T21:11:54+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -13,8 +13,9 @@
     },
     {
       "source": "ESPN (via Google News)",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 15,
+      "error": "HTTPError"
     },
     {
       "source": "Sky Sports",
@@ -28,6 +29,30 @@
     }
   ],
   "items": [
+    {
+      "title": "White wins gold at European Under 23 Championships",
+      "link": "https://www.skysports.com/boxing/news/12183/13616059/ruby-white-wins-flyweight-gold-at-european-under-23-championships-while-two-british-team-mates-also-collected-medals",
+      "published": "2026-11-24T17:07:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "‘He was weak for that’: Jose Valenzuela criticizes Shakur Stevenson for avoiding fight",
+      "link": "https://www.badlefthook.com/boxing-news/120541/jose-valenzuela-criticizes-shakur-stevenson-for-avoiding-fight-boxing-news-2026",
+      "published": "2026-11-24T13:06:24+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Khelif still set for pro bout in Paris despite opponent withdrawal",
+      "link": "https://www.skysports.com/boxing/news/12183/13615976/imane-khelif-still-set-for-professional-contest-in-paris-on-december-15-despite-withdrawal-of-original-opponent",
+      "published": "2026-11-24T12:47:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Smith: Paths align better for Stevenson unification than Azim fight",
+      "link": "https://www.skysports.com/boxing/news/12183/13615634/dalton-smith-paths-align-better-for-shakur-stevenson-unification-than-adam-azim-fight",
+      "published": "2026-11-24T06:00:00+00:00",
+      "source": "Sky Sports"
+    },
     {
       "title": "Martin Bakole steps in to face Deontay Wilder on December 11th",
       "link": "https://www.badlefthook.com/boxing-news/120530/martin-bakole-steps-in-to-face-deontay-wilder-on-december-11th",
@@ -77,7 +102,7 @@
       "source": "Sky Sports"
     },
     {
-      "title": "Wilder to fight Bakole on Fury-AJ undercard",
+      "title": "'Fury MUST attack AJ from first bell!' Toe2Toe keys to victory",
       "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
       "published": "2026-11-23T14:00:00+00:00",
       "source": "Sky Sports"
@@ -245,12 +270,6 @@
       "source": "Bad Left Hook"
     },
     {
-      "title": "‘Those PED punches a little different’: Devin Haney reflects on Ryan Garcia fight",
-      "link": "https://www.badlefthook.com/boxing-news/120491/devin-haney-reflects-on-ryan-garcia-fight-on-club-shay-shay-boxing-news-2026",
-      "published": "2026-11-19T12:55:20+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
       "title": "Tyson Fury vs. Anthony Joshua undercard: Why Eddie Hearn called it 'a disgrace'",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDBLSXlOd0pndDlDa29ZTzJnbnhRRzFla3VhN0hYU01NUDhVTlI4bUlsdFF5WnE3cFpCT1FSY2JkZUJXdmI1V3FXNVQzRFp2NWtSMWU0UWxYMnd3Y1pjNUJyeHZ2eEdvRTdUcEQ0ZU1HUDNCQ3Q5dzQyRXcxLUJpN21NalQtWlRCU19WNEM5aEZmc3BGcEUtcDNB?oc=5",
       "published": "2026-11-19T08:59:58+00:00",
@@ -263,22 +282,10 @@
       "source": "Sky Sports"
     },
     {
-      "title": "Price hopes undisputed history could lead her to Shields showdown",
-      "link": "https://www.skysports.com/boxing/news/12183/13613679/lauren-price-hopes-making-undisputed-history-could-lead-her-to-claressa-shields-showdown-i-want-the-big-fights",
-      "published": "2026-11-19T06:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlHdHZHNUNPUXpaYVY2YUhaZUpfZjhFaEhLbk5uRXlPOXc2VEhXekRuTGlUM3Y3aFZmaDNEQWZhY0dSVzk0aTdvN2hVYTdwT1lvSDJ6amk3OVhzVjdwbGhOaS1YbEV5bVprTnQxcVlpdzZnVjhCZVVqLXJ6dlhCZEN3SzBhOVVpWWVHZTBhb0VranpUcG95OEFGVlBYM25WVHVQYzNUdw?oc=5",
       "published": "2026-11-18T22:17:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Verhoeven to fight Wilder? 'He's always up for a big fight!'",
-      "link": "https://www.skysports.com/boxing/news/12183/13613615/rico-verhoeven-could-the-kickboxing-superstar-step-in-to-fight-deontay-wilder-on-the-tyson-fury-vs-anthony-joshua-bill",
-      "published": "2026-11-18T14:20:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "Opetaia out of Wilder fight on Fury-Joshua card",
@@ -291,12 +298,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVElGUHU5Q1VLWXZ3ZWFsVHh5Sk5GdDl0b2UxSFkwY3hXNEhtMi1BQWNrTU1WWGtkSUxjbGpRM0FhZWxqUlFGQ2NMQ2JTZ0o2Y1E3X3EzMFZNeVl5NHhHdWN3LUNPcjNNMWFrZWloaUwtVVdZVU5lcUNIRndsU245cXFTLVQtVlBITGJPaVN1aXhxVjRkVjRMekFWeHJDV0w1S2c?oc=5",
       "published": "2026-11-18T09:26:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Opetaia out of Wilder bout on Fury-AJ undercard",
-      "link": "https://www.skysports.com/boxing/news/12183/13613336/fury-vs-joshua-undercard-jai-opetaia-has-withdrawn-from-heavyweight-bout-with-deontay-wilder-on-december-11-bill",
-      "published": "2026-11-18T09:20:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "Linares in ICE detention and facing deportation",
