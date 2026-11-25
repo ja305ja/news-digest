@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T21:11:54+00:00",
+  "last_updated": "2026-11-25T20:28:57+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -13,9 +13,8 @@
     },
     {
       "source": "ESPN (via Google News)",
-      "ok": false,
-      "count": 15,
-      "error": "HTTPError"
+      "ok": true,
+      "count": 15
     },
     {
       "source": "Sky Sports",
@@ -29,6 +28,78 @@
     }
   ],
   "items": [
+    {
+      "title": "Dubois vs Parker announced for WBO heavyweight title clash",
+      "link": "https://www.skysports.com/boxing/news/12183/13614342/daniel-dubois-to-fight-joseph-parker-in-wbo-heavyweight-world-championship-clash-in-manchester-on-january-30",
+      "published": "2026-11-25T20:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Brian Mendoza slated to take on Vergil Ortiz as replacement opponent",
+      "link": "https://www.badlefthook.com/boxing-news/120553/brian-mendoza-slated-to-take-on-vergil-ortiz-as-replacement-opponent-boxing-news-2026",
+      "published": "2026-11-25T17:07:41+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "'Triumph over trauma' - new women's boxing promotion begins",
+      "link": "https://www.skysports.com/boxing/news/12183/13616397/fight-back-promotions-a-new-venture-to-support-women-affected-by-domestic-violence-begins-its-triumph-over-trauma",
+      "published": "2026-11-25T17:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Chantelle Cameron inks extension with MVP",
+      "link": "https://www.badlefthook.com/boxing-news/120550/chantelle-cameron-inks-extension-with-mvp-boxing-news-2026",
+      "published": "2026-11-25T16:27:52+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Cameron agrees contract extension with Jake Paul's MVP",
+      "link": "https://www.skysports.com/boxing/news/12183/13616374/chantelle-cameron-unified-super-welterweight-world-champion-agrees-contract-extension-with-jake-pauls-mvp",
+      "published": "2026-11-25T14:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Fury-Joshua gets green light despite objections over 3am finish",
+      "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T13:09:06+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Six title fights to watch: Kabayel, Cruz lead busy weekend of boxing",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXM5Zm9FN3h4ZWNsX2FIQm9pWWRRTGIta2lZT3lOUlBWR3JxMTU3bGN2c05FSS1udFloS3dzU1AtbnBLdzRuRHJVbFVMcHY0SjhlRVd3TU9aN0h5bXJHeURwUGZFdG1kdjRicno2NDNsaGxEYkc0XzJDVkU1TzJBNVV3c0FIVzlub1kzLXFRZmo?oc=5",
+      "published": "2026-11-25T12:52:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "‘I said no thanks to the casting couch. But other actresses had problems’: Jane Alexander on 50 years of stardom",
+      "link": "https://www.theguardian.com/film/2026/nov/25/jane-alexander-interview",
+      "published": "2026-11-25T12:00:56+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Fury vs Joshua approved for ring walks from 1am",
+      "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
+      "published": "2026-11-25T12:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Tyson Fury vs. Anthony Joshua start time approved by Cardiff Council",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkdOaDFTdDdSLU5sNGh2MDFpMnBxUHNZRWMzaUpBVG9JdDRHekJMcDl5UWE5RzNhU1FMTFc2aTBTWDJLOEJPdlg2OXk5MG1pczJHMFBoUFZSdzF0WWc2WFdYN1BQMUc0Zks5S3dCMnE2TGstVm9Lbk5xX3Z1S1VsVHE3MGxEN0RIWWd4RWx4b1drOEVzenc?oc=5",
+      "published": "2026-11-25T11:56:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Hysa aims to win WBC title then take on 'favourite fighter' Fury",
+      "link": "https://www.skysports.com/boxing/news/12183/13616101/nelson-hysa-aims-to-beat-agit-kabayel-win-wbc-world-title-and-take-on-tyson-fury-his-favourite-fighter",
+      "published": "2026-11-25T06:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "‘Now ya’ll VADA advocates’: Devin Haney says Liam Paro can’t escape beating",
+      "link": "https://www.badlefthook.com/boxing-news/120545/devin-haney-says-liam-paro-cant-escape-beating-boxing-news-2026",
+      "published": "2026-11-24T21:46:34+00:00",
+      "source": "Bad Left Hook"
+    },
     {
       "title": "White wins gold at European Under 23 Championships",
       "link": "https://www.skysports.com/boxing/news/12183/13616059/ruby-white-wins-flyweight-gold-at-european-under-23-championships-while-two-british-team-mates-also-collected-medals",
@@ -102,12 +173,6 @@
       "source": "Sky Sports"
     },
     {
-      "title": "'Fury MUST attack AJ from first bell!' Toe2Toe keys to victory",
-      "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
-      "published": "2026-11-23T14:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Fury reveals schizophrenia diagnosis",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23T09:53:52+00:00",
@@ -150,16 +215,16 @@
       "source": "BBC Sport"
     },
     {
+      "title": "Gabriela Fundora stays undisputed with lopsided victory over Jasmina Zapotoczna",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVJiUWIyV1pHejJjRVFYSkdaQ1RQd0swWm1KTWdVRzFEd2JidUJzOTFzUGZVeUJnVFBJR2ZzTW52aTFfeEJZYWc2c1B4b1ZEb2lKSGFWZnpmaGllRlFZQjlqXy1Wc2RiRUFnRDFMenBfSnJGczA1YlVnd1h5a0tudFFFVWp0QUktY21IajdhU0ROcHVoZm9qbGpnSEsyOVJ3d2VPLTVpa0w?oc=5",
+      "published": "2026-11-21T05:13:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Price makes Welsh history",
       "link": "https://www.bbc.co.uk/sounds/play/p0pp625c?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-21T01:55:00+00:00",
       "source": "BBC Sport"
-    },
-    {
-      "title": "Baumgardner's win shakes up women's boxing pound-for-pound rankings",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakhkTUNoSzYzdTM4TDRBSEh1dWFkWEFKWEExUjhpVW1JdjBaOFhLSkktcEZkSHZ1LW0tczNOeFpGYUZpcG5EcDVkd2JIQmhMb3RtTHhQaFVNeGpuQzZLc0oyUFE3WDdfdWhLVlYtT2xCSHlTdHNXSllNZktWbFNNbjNiV2lTOEhm?oc=5",
-      "published": "2026-11-21T01:21:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Lauren Price dominates Michaela Kotaskova to become undisputed world champion",
@@ -192,34 +257,10 @@
       "source": "Bad Left Hook"
     },
     {
-      "title": "Dillian Whyte volunteers to step in to face Deontay Wilder",
-      "link": "https://www.badlefthook.com/boxing-news/120509/dillian-whyte-volunteers-to-step-in-to-face-deontay-wilder-boxing-news-2026",
-      "published": "2026-11-20T18:09:17+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
-      "title": "Clarke: 'I am world class, I was just waiting for the world to see'",
-      "link": "https://www.skysports.com/boxing/news/12183/13614327/cheavon-clarke-ive-always-been-world-class-i-was-just-waiting-for-the-world-to-catch-up-and-see-it",
-      "published": "2026-11-20T17:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Lee Reeves funeral: Boxer's 'legacy will live on'",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanBwWnRSMmY2UHBOU19iUEVWTjVNNnlkSjl2TnY4YXlRelVKY25yMWdONXJ5OGRDVnB0VTA2d2R3S2JmaHhkVlBZbUlFMzdIMjhYMmZfSU9XV2JleDUyOUd3LUFHVU5fb2xHbDFXUVFLTlU3SE1NS1JKeVRROEp0Y1hTV2tLcnhLZmw1QXlnaTFSQWx5X0s2RWpB?oc=5",
       "published": "2026-11-20T14:39:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "‘That fight will take place February 6’: Oscar De La Hoya says Ryan Garcia will unify titles with Teofimo Lopez next",
-      "link": "https://www.badlefthook.com/boxing-news/120500/oscar-de-la-hoya-says-ryan-garcia-will-unify-titles-with-teofimo-lopez-next-boxing-news-2026",
-      "published": "2026-11-20T13:20:59+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
-      "title": "Whyte offers to fight Wilder - 'They know where I am'",
-      "link": "https://www.skysports.com/boxing/news/12183/13614086/dillian-whyte-offers-to-fight-deontay-wilder-on-december-11-if-wilder-wants-it-they-know-where-i-am",
-      "published": "2026-11-20T06:00:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "History, hunger and headline bills - why Price is box office",
@@ -246,12 +287,6 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "WBC open door for Canelo to fight Hutchinson for light-heavy title",
-      "link": "https://www.skysports.com/boxing/news/12183/13613969/wbc-open-door-for-canelo-alvarez-to-challenge-britains-willy-hutchinson-for-light-heavyweight-world-championship",
-      "published": "2026-11-19T16:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Edwards' world title aim to join Welsh boxing greats",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/ckr5g3ql2mdlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-19T13:54:42+00:00",
@@ -262,24 +297,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWhyRFJROFVCMjJlaDdvNnMyMTVTOHRjZVR6dVNIUkJfZEtnZE5NUVVrdU55cHFwbGRGeWItNnJvc1dvQUExVUU2eEJMLUJmZlhaUlVWY0xMcmFFYi1xNkptWVBCb2hhbFlrdmF4aXFXZGlLQjRsWERaYXJ1ajlnS05GalA4N21ncmlzTkJqVGNWMTB5S0Y5Vk93?oc=5",
       "published": "2026-11-19T13:15:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "‘Ya’ll know the price’: Floyd Schofield Sr calls out Abdullah Mason’s team over ‘lowball offer’",
-      "link": "https://www.badlefthook.com/boxing-news/120496/floyd-schofield-sr-calls-out-abdullah-masons-team-over-lowball-offer-boxing-news-2026",
-      "published": "2026-11-19T13:14:04+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
-      "title": "Tyson Fury vs. Anthony Joshua undercard: Why Eddie Hearn called it 'a disgrace'",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDBLSXlOd0pndDlDa29ZTzJnbnhRRzFla3VhN0hYU01NUDhVTlI4bUlsdFF5WnE3cFpCT1FSY2JkZUJXdmI1V3FXNVQzRFp2NWtSMWU0UWxYMnd3Y1pjNUJyeHZ2eEdvRTdUcEQ0ZU1HUDNCQ3Q5dzQyRXcxLUJpN21NalQtWlRCU19WNEM5aEZmc3BGcEUtcDNB?oc=5",
-      "published": "2026-11-19T08:59:58+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Joshua unable to see new baby daughter until after Fury fight",
-      "link": "https://www.skysports.com/boxing/news/12183/13613842/anthony-joshua-british-heavyweight-boxer-becomes-dad-for-second-time-but-unable-to-see-daughter-until-after-tyson-fury-fight",
-      "published": "2026-11-19T08:45:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run",
@@ -312,12 +329,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "The boxer who lost 45kg and fought depression to chase a dream",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c3y0eedpd05ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T11:39:44+00:00",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Rocky is Philadelphia’s founding myth – and 50 years later, we’re still telling it",
       "link": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
       "published": "2026-11-17T10:00:09+00:00",
@@ -326,7 +337,7 @@
     {
       "title": "Boxer Lee Reeves dies aged 31 after injuries from a fight",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2lDRWtXZE9ObjdGNjR2OTAzLTlBNG9WR0ViSy1paGRjOWl2MlZKWkdtTEtzVnBwMmlrc1dyMVM2YlhoaTcwNGk0djVLb0tzel85SEpkb2gyX1lIbklQcjBSMlN1cnpzR2hQLW9Ecm1hSG1pYlBJcWVmVkdoYzh5TzNVTXllQmdFLTkw?oc=5",
-      "published": "2026-11-17T08:54:00+00:00",
+      "published": "2026-11-17T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
@@ -340,18 +351,6 @@
       "link": "https://www.bbc.co.uk/sport/boxing/videos/c6x2v444m171o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17T06:30:41+00:00",
       "source": "BBC Sport"
-    },
-    {
-      "title": "Chantelle Cameron, Mikaela Mayer to rematch on Jake Paul Dec. 24 undercard",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlhDeGNrQVczM2xNdHB1YzMyel9HTjZTVm5mZFF2NUluTW9wT0FfSGswN0dsZXVoQTRfT3NOQ2JuaEZnVTE3V3pza0RDcTFMaFEyXzU5cmdBYkNaeW9vRWVwQU1rLVpVOVNZQnF4WG9oTnVUS0NodmRXVFd1Sk9zaGdnNjVnUkpFSDJEOFFqV2RIdU0?oc=5",
-      "published": "2026-11-13T11:01:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Overeem-Manuwa boxing match added to Dec. 24 Paul-Doumbé card",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGw2R2tVbjRxdjdacjhtcWs2SWZaYnl5cTJFTWJUWXgwVzNfWkZLZVNyQzdCbUYtSjhUVnlhTlhLMUZ5dGw0clBzTnJJWnRHR2lERWdjSXlqbVhPTWV2b3VhR2ZJRnN5YmhGVjk1cndHV0hoRWd5U2tseHBQUUY3ODhwTjV6WW9HTE1aZnZlNnJVRnd4c2xlaG0zdGV2Z29jT1pjMy1EQks?oc=5",
-      "published": "2026-11-12T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Why Fury was born to fight",
@@ -370,6 +369,12 @@
       "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
       "published": "2026-11-09T06:20:34+00:00",
       "source": "The Guardian"
+    },
+    {
+      "title": "Willy Hutchinson beats Joshua Buatsi to win WBC light heavyweight title",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZ1Y3RaWjV6N0N1dU9uenZpT0tvdTRYRUpLSE5mNmtiSVFBZ2JmZ083WWpkd1Baa3h5Y0NUcmVnakg3djJ0b2VDdnkyUktsWmZQUjZpZjV6Unc5b3FxUEZLWTVZTUM1WFpreTlnclQ0bERMek8ybGI3cTdELWRwTVR5dVVCWjhEVmt4SHozT0ZZS0pCQTdWQ29fZEZDZkZuUkIxOHlpekJXMDkzVHhuUkJoOGljenM?oc=5",
+      "published": "2026-11-07T08:00:00+00:00",
+      "source": "ESPN (via Google News)"
     },
     {
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
@@ -429,12 +434,6 @@
       "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
       "link": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
       "published": "2026-10-18T05:06:35+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Daniel Dubois knocks out Fabio Wardley to retain WBO heavyweight title – as it happened",
-      "link": "https://www.theguardian.com/sport/live/2026/oct/17/daniel-dubois-fabio-wardley-ii-boxing-wbo-heavyweight-title-fight-live",
-      "published": "2026-10-17T22:39:05+00:00",
       "source": "The Guardian"
     },
     {
