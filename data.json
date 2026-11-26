@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T20:28:57+00:00",
+  "last_updated": "2026-11-26T20:10:54+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -28,6 +28,72 @@
     }
   ],
   "items": [
+    {
+      "title": "Boxing chiefs to assess Fury mental health before fight",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T18:54:27+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Brilliant!!!... Parker releases hilarious new video ahead of Dubois fight",
+      "link": "https://www.skysports.com/watch/video/13616739/joseph-parker-releases-hilarious-new-video-ahead-of-daniel-dubois-fight",
+      "published": "2026-11-26T10:30:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Kabayel vs Hysa Predictions: Picking the winner, breaking down the fight",
+      "link": "https://www.badlefthook.com/boxing-predictions/120566/kabayel-vs-hysa-predictions-picking-winner-boxing-news-2026",
+      "published": "2026-11-26T10:00:00+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "McKenzie: Fury-AJ loser has nowhere to go",
+      "link": "https://www.skysports.com/boxing/news/12183/13616436/tyson-fury-vs-anthony-joshua-loser-will-have-nowhere-to-go-says-duke-mckenzie-moses-itauma-will-come-again",
+      "published": "2026-11-26T06:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "CSI Sports says it will block potential Floyd Mayweather-Ryan Garcia fight",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSi1Zc2t3RklMbExGeGQ1UmtZNGlac2V1S0EySDFNbTVwNzJqOHdrMGtwTl8zZ1k0d1JaRUs5SkFNNmFidnV2WGViekdFdkJDQWF6eU1OUy1xcGNzQldsYW9la3p6SXQ2UERyUjFFS0dIZFlEdnV4OHk4Qy1hSmI1X1BxbW5ESGVJM0xGREpPcFpwY21LNkxWc1kwNkFVR0pD?oc=5",
+      "published": "2026-11-26T01:14:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Mendoza steps in for injured Thurman to face Ortiz Dec. 5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFhQZHRMV0o5VW5QZTZqMHZoXzBFak5BVnpGWGxBQkJ3OHNpazlPVlVnWTFQNzlwOW5EajdNZVV5SWRiZ2ctc3NWdHAtWndZcTduRlc5dzBCeHdjTlo5al9kWWllNXBQZlg5eFRUbktkM28wcEdxMlNJYXZBYnN1elZzb2J5bm1xT2tyeDhMV0tpOXFrbm94amZR?oc=5",
+      "published": "2026-11-25T21:41:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Cordina to face Lara on Joshua-Fury card",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c9772vyzr342o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:33:57+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Joe Cordina vs Mauricio Lara leads Fury vs Joshua prelims",
+      "link": "https://www.badlefthook.com/boxing-news/120561/joe-cordina-vs-mauricio-lara-leads-fury-vs-joshua-prelims",
+      "published": "2026-11-25T21:08:17+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Daniel Dubois to defend WBO heavyweight title vs. Joseph Parker Jan. 30",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWEzWFpJUWQwZkNza1JGN3c4NmwycEtMTzNCN1BIOTB5WDBmZ3Q5aFZna0RSSnI5TVptV2lobTJqaWliNXJjcXRVZEVvZ3d3Y094WVk4YUxWeEpnX2ZldTIyU3V0S2lTU004b2lzdWJackp4V0c5WlZaMTJBVnhlTHVJVFpRV3FRTkVTd0dIT0VYX2ZwUndVYVplM0U4UlV3eXhLdTJjOXN1eW8?oc=5",
+      "published": "2026-11-25T21:01:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Daniel Dubois vs Joseph Parker official for January 30th in Manchester",
+      "link": "https://www.badlefthook.com/boxing-news/120557/daniel-dubois-vs-joseph-parker-official-for-january-30th-in-manchester",
+      "published": "2026-11-25T20:45:44+00:00",
+      "source": "Bad Left Hook"
+    },
+    {
+      "title": "Dubois to defend title against Parker in Manchester",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T20:37:40+00:00",
+      "source": "BBC Sport"
+    },
     {
       "title": "Dubois vs Parker announced for WBO heavyweight title clash",
       "link": "https://www.skysports.com/boxing/news/12183/13614342/daniel-dubois-to-fight-joseph-parker-in-wbo-heavyweight-world-championship-clash-in-manchester-on-january-30",
@@ -59,6 +125,12 @@
       "source": "Sky Sports"
     },
     {
+      "title": "Chantelle Cameron signs multi-fight extension with Jake Paul's MVP",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUjBUcjE5cldlakxSWllqTzJnSE9SR1ZCN2l4TVpfd05ZSEdpcW5qQTlETUJrOTF4eTlWNjJpOEo0NUg1U2lfd3dSUWNmOEpUSUNvWUg2LXplU0xSZWZUdTZXQmhYZDllcldsV055eFh2OTYxQW5CY2J0eGNqYnhPOTUyVHRMUQ?oc=5",
+      "published": "2026-11-25T13:50:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
       "title": "Fury-Joshua gets green light despite objections over 3am finish",
       "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T13:09:06+00:00",
@@ -77,7 +149,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Fury vs Joshua approved for ring walks from 1am",
+      "title": "Cordina and Roman Fury to appear on Fury vs Joshua bill",
       "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
       "published": "2026-11-25T12:00:00+00:00",
       "source": "Sky Sports"
@@ -149,12 +221,6 @@
       "source": "Bad Left Hook"
     },
     {
-      "title": "‘I’m ready to upset the odds’: Josh Kelly confident he wins unification match with Boots Ennis",
-      "link": "https://www.badlefthook.com/boxing-news/120521/josh-kelly-confident-he-wins-unification-match-with-boots-ennis-boxing-news-2026",
-      "published": "2026-11-23T14:26:44+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
       "title": "Bakole steps in to fight Wilder on Fury vs. Joshua undercard",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUNIQ0R5WFMxTkcyS1BzeXh6SF9JVkhKTXh6UHlMZEpZbUxOaGFIbk9Jc2hiQkFxTHhnV2xOVTZZdWxRZGRXYk9kbFBCQUNlS2NaSTRjLVJMUzlTd0lybTZmYUhUaTJ0TnlYSWY1eTBqQW81cVV4NC1GeGNkVDNWVTIycDdYVjVjR0JIX1hWUkZiU3I5MkxtZUs2cEY0OEtQalBqNQ?oc=5",
       "published": "2026-11-23T14:17:00+00:00",
@@ -185,22 +251,10 @@
       "source": "Sky Sports"
     },
     {
-      "title": "Agit Kabayel vs Nelson Hysa, Andy Cruz vs Artur Subkhankulov, and more: Boxing schedule and previews for November 28, 2026",
-      "link": "https://www.badlefthook.com/boxing-schedule/120517/how-to-watch-agit-kabayel-nelson-hysa-andy-cruz-artur-subkhankulovt-streaming-tv-schedule-boxing-news-2026",
-      "published": "2026-11-22T17:05:48+00:00",
-      "source": "Bad Left Hook"
-    },
-    {
       "title": "Tyson Fury looks back: ‘Once the Anthony Joshua fight is over, what will I do next? Walking the dog ain’t gonna cut it’",
       "link": "https://www.theguardian.com/lifeandstyle/2026/nov/22/tyson-fury-boxer-looks-back-after-anthony-joshua-fight-what-next",
       "published": "2026-11-22T14:00:29+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Holyfield: Tyson can fight anybody!",
-      "link": "https://www.skysports.com/watch/video/13615165/he-can-fight-anybody-evander-holyfield-backs-tyson-fury-to-defeat-anthony-joshua",
-      "published": "2026-11-22T12:00:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "Harrison: The animosity Fury and AJ have is genuine",
@@ -239,22 +293,10 @@
       "source": "BBC Sport"
     },
     {
-      "title": "Price makes undisputed history as she shuts out Kotaskova",
-      "link": "https://www.skysports.com/boxing/news/12183/13614565/lauren-price-makes-boxing-history-for-wales-with-first-undisputed-championship-win-as-she-shuts-out-michaela-kotaskova",
-      "published": "2026-11-20T22:32:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Report: Vergil Ortiz Jr. needs new opponent after Keith Thurman suffers injury",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkpMVFJyNHdyTm9fZFBuaWxwM1dfT3dMaXp1ME1QTnA3MVlSOVBTX3ZSZ1Rlc1gtUGtVWnY2aUhNbjVLaE1nU1dydlV3TjhZQVItSnVtekd6bXZpNkZrdFJqWGdtRDlwemN3anlyU21aUDJfTm1ISVFoT21WV0U0dENkbzE2QlFnRGFVdmZXa1U3bDMwVDBNVWF5eE5hRVdKSFUwTg?oc=5",
       "published": "2026-11-20T19:44:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Keith Thurman injured, pulled from December 5th Vergil Ortiz Jr fight",
-      "link": "https://www.badlefthook.com/boxing-news/120511/keith-thurman-injured-pulled-from-december-5th-vergil-ortiz-jr-fight",
-      "published": "2026-11-20T18:14:22+00:00",
-      "source": "Bad Left Hook"
     },
     {
       "title": "Lee Reeves funeral: Boxer's 'legacy will live on'",
@@ -287,40 +329,10 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Edwards' world title aim to join Welsh boxing greats",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/ckr5g3ql2mdlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19T13:54:42+00:00",
-      "source": "BBC Sport"
-    },
-    {
       "title": "Fundora chasing rings, not just titles: Predictions and stats vs. Zapotoczna",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWhyRFJROFVCMjJlaDdvNnMyMTVTOHRjZVR6dVNIUkJfZEtnZE5NUVVrdU55cHFwbGRGeWItNnJvc1dvQUExVUU2eEJMLUJmZlhaUlVWY0xMcmFFYi1xNkptWVBCb2hhbFlrdmF4aXFXZGlLQjRsWERaYXJ1ajlnS05GalA4N21ncmlzTkJqVGNWMTB5S0Y5Vk93?oc=5",
       "published": "2026-11-19T13:15:00+00:00",
       "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlHdHZHNUNPUXpaYVY2YUhaZUpfZjhFaEhLbk5uRXlPOXc2VEhXekRuTGlUM3Y3aFZmaDNEQWZhY0dSVzk0aTdvN2hVYTdwT1lvSDJ6amk3OVhzVjdwbGhOaS1YbEV5bVprTnQxcVlpdzZnVjhCZVVqLXJ6dlhCZEN3SzBhOVVpWWVHZTBhb0VranpUcG95OEFGVlBYM25WVHVQYzNUdw?oc=5",
-      "published": "2026-11-18T22:17:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Opetaia out of Wilder fight on Fury-Joshua card",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq1md5ppd2mxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T10:15:35+00:00",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Opetaia out of Wilder fight, Fury vs. Joshua loses key undercard clash",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVElGUHU5Q1VLWXZ3ZWFsVHh5Sk5GdDl0b2UxSFkwY3hXNEhtMi1BQWNrTU1WWGtkSUxjbGpRM0FhZWxqUlFGQ2NMQ2JTZ0o2Y1E3X3EzMFZNeVl5NHhHdWN3LUNPcjNNMWFrZWloaUwtVVdZVU5lcUNIRndsU245cXFTLVQtVlBITGJPaVN1aXhxVjRkVjRMekFWeHJDV0w1S2c?oc=5",
-      "published": "2026-11-18T09:26:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
-      "title": "Linares in ICE detention and facing deportation",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18T07:34:53+00:00",
-      "source": "BBC Sport"
     },
     {
       "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
@@ -333,12 +345,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
       "published": "2026-11-17T10:00:09+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Boxer Lee Reeves dies aged 31 after injuries from a fight",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2lDRWtXZE9ObjdGNjR2OTAzLTlBNG9WR0ViSy1paGRjOWl2MlZKWkdtTEtzVnBwMmlrc1dyMVM2YlhoaTcwNGk0djVLb0tzel85SEpkb2gyX1lIbklQcjBSMlN1cnpzR2hQLW9Ecm1hSG1pYlBJcWVmVkdoYzh5TzNVTXllQmdFLTkw?oc=5",
-      "published": "2026-11-17T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Irish boxer Reeves dies aged 31 after three months in coma",
@@ -369,12 +375,6 @@
       "link": "https://www.theguardian.com/sport/2026/nov/09/ramla-ali-mikiah-kreps-controversial-split-decision-world-titles-boxing",
       "published": "2026-11-09T06:20:34+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Willy Hutchinson beats Joshua Buatsi to win WBC light heavyweight title",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMFZ1Y3RaWjV6N0N1dU9uenZpT0tvdTRYRUpLSE5mNmtiSVFBZ2JmZ083WWpkd1Baa3h5Y0NUcmVnakg3djJ0b2VDdnkyUktsWmZQUjZpZjV6Unc5b3FxUEZLWTVZTUM1WFpreTlnclQ0bERMek8ybGI3cTdELWRwTVR5dVVCWjhEVmt4SHozT0ZZS0pCQTdWQ29fZEZDZkZuUkIxOHlpekJXMDkzVHhuUkJoOGljenM?oc=5",
-      "published": "2026-11-07T08:00:00+00:00",
-      "source": "ESPN (via Google News)"
     },
     {
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
