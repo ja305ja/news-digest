@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T20:10:54+00:00",
+  "last_updated": "2026-11-27T19:56:46+00:00",
   "feeds": [
     {
       "source": "BBC Sport",
@@ -29,9 +29,69 @@
   ],
   "items": [
     {
-      "title": "Boxing chiefs to assess Fury mental health before fight",
+      "title": "Fury's manager says AJ called him to check fight was on",
+      "link": "https://www.skysports.com/boxing/news/12183/13617263/tyson-furys-manager-reveals-anthony-joshua-called-him-to-check-december-11-fight-was-going-ahead-after-schizophrenia-claim",
+      "published": "2026-11-27T19:00:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Tyson Fury cleared to fight Anthony Joshua after mental health concerns allayed",
+      "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-cleared-fight-anthony-joshua-mental-health-concerns-allayed-boxing",
+      "published": "2026-11-27T14:38:40+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Fury cleared to fight Joshua after wife retracts schizophrenia claim",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T12:13:15+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Tyson Fury 'cleared' to fight Anthony Joshua after schizophrenia worry",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb21iYVNSTkZFcnJmUlk5UnV2ejk3N0tMbm1CYTQySGRjMFQ0WnRFYVFqVWpQVnFBZDIwU3o1a09fd0tLOVJ5Vk84TlBmZ1BlaW4wdnEyd3JrWWJVdnNPN1lWU2xLcHdvaVp1bklOVjI4SzN5dUFKRUJPZGJpV19LYlAyZlpSQVhfT1dobkVFUFM?oc=5",
+      "published": "2026-11-27T11:56:00+00:00",
+      "source": "ESPN (via Google News)"
+    },
+    {
+      "title": "Fury cleared to face Joshua by British Boxing Board of Control",
+      "link": "https://www.skysports.com/boxing/news/12183/13617169/tyson-fury-cleared-to-face-anthony-joshua-by-british-boxing-board-of-control-after-schizophrenia-claim-by-wife-paris-fury",
+      "published": "2026-11-27T11:36:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Sports quiz of the week: champions, finals, goals, arguments and animals",
+      "link": "https://www.theguardian.com/sport/2026/nov/27/sports-quiz-week-football-chess-tennis-rugby-boxing-cricket-snooker",
+      "published": "2026-11-27T08:00:58+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "How Fury and Joshua changed British boxing forever",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:51:53+00:00",
+      "source": "BBC Sport"
+    },
+    {
+      "title": "Tyson Fury v Anthony Joshua: Paris Fury retracts claim her husband was diagnosed with schizophrenia",
+      "link": "https://www.theguardian.com/sport/2026/nov/27/tyson-fury-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
+      "published": "2026-11-27T00:17:07+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Paris Fury retracts Tyson schizophrenia claim",
+      "link": "https://www.skysports.com/boxing/news/12183/13617026/tyson-fury-vs-anthony-joshua-paris-fury-retracts-claim-her-husband-has-been-diagnosed-with-schizophrenia",
+      "published": "2026-11-26T22:26:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Bakole: Late-notice Wilder fight not like Parker | 'I like danger!'",
+      "link": "https://www.skysports.com/boxing/news/12183/13617000/fury-vs-joshua-undercard-martin-bakole-insists-late-notice-deontay-wilder-fight-wont-be-like-joseph-parker-loss",
+      "published": "2026-11-26T21:36:00+00:00",
+      "source": "Sky Sports"
+    },
+    {
+      "title": "Fury 'never received' schizophrenia diagnosis",
       "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T18:54:27+00:00",
+      "published": "2026-11-26T21:25:00+00:00",
       "source": "BBC Sport"
     },
     {
@@ -149,7 +209,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Cordina and Roman Fury to appear on Fury vs Joshua bill",
+      "title": "Decide Fury vs Joshua ring-walk by punch machine game - Hearn",
       "link": "https://www.skysports.com/boxing/live-blog/12183/13596038/fury-vs-joshua-latest-news-live-updates-predictions-and-video-ahead-of-december-heavyweight-fight-in-cardiff",
       "published": "2026-11-25T12:00:00+00:00",
       "source": "Sky Sports"
@@ -233,34 +293,10 @@
       "source": "Sky Sports"
     },
     {
-      "title": "British amateur star Moss-Birch signs with Jake Paul's MVP",
-      "link": "https://www.skysports.com/boxing/news/12183/13615593/amber-moss-birch-21-year-old-british-amateur-star-signs-with-jake-pauls-most-valuable-promotions",
-      "published": "2026-11-23T14:00:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
-      "title": "Fury reveals schizophrenia diagnosis",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23T09:53:52+00:00",
-      "source": "BBC Sport"
-    },
-    {
-      "title": "Fury reveals schizophrenia diagnosis",
-      "link": "https://www.skysports.com/boxing/news/12183/13615550/tyson-fury-reveals-schizophrenia-and-bipolar-disorder-diagnosis-ahead-of-anthony-joshua-fight",
-      "published": "2026-11-23T09:44:00+00:00",
-      "source": "Sky Sports"
-    },
-    {
       "title": "Tyson Fury looks back: ‘Once the Anthony Joshua fight is over, what will I do next? Walking the dog ain’t gonna cut it’",
       "link": "https://www.theguardian.com/lifeandstyle/2026/nov/22/tyson-fury-boxer-looks-back-after-anthony-joshua-fight-what-next",
       "published": "2026-11-22T14:00:29+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Harrison: The animosity Fury and AJ have is genuine",
-      "link": "https://www.skysports.com/boxing/news/12183/13615082/tyson-fury-and-anthony-joshua-have-a-genuine-animosity-says-olympic-gold-medallist-audley-harrison-we-need-to-see-it",
-      "published": "2026-11-22T07:00:00+00:00",
-      "source": "Sky Sports"
     },
     {
       "title": "'Best in world' Price set for Cardiff stadium fight",
@@ -317,21 +353,15 @@
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Misdemeanor assault case against Devin Haney, father dismissed",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdjhHWW1KblBfY05BZjgyQmRLRzllZmtETUpMdk9FclVObk1pRUxpdFdoSGw3Sm1qSkFwdFFDcVRpRmlpTURaTFNNWE91M1ZkaWVjNFdHNVJBanJDa21mcVAwbUs3R19sOFRqa3I2b2xmcE5zOVRLcFh0aGV2d3NISmQ4N0ZCa1FyQ1BDRFN6THNUQTViSkl5YnhfclJ1N3RVUEww?oc=5",
-      "published": "2026-11-19T16:56:00+00:00",
-      "source": "ESPN (via Google News)"
-    },
-    {
       "title": "Felony charges against Floyd Mayweather Jr. over bad $200K check dismissed",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXB4U1hMcVIxRFdnMHY2eWljeTJCSGNpLWtiSzFMMXdTRVFlZkZNUkVTTG9DdE9PbEZfUk9Bajc2alA3VUdaZlh5d3RTRzJ3UUJybEpiOTVoSjZBVmdfYV9jbHRqaUxNZ0pGQzNKdXZqd1ZNUWxyY05lbmZCTEc1MjZiSVhfR0llckVTcmJ6SVEzcHVTMzF1Z3dHZmQ3TlE?oc=5",
-      "published": "2026-11-19T16:31:00+00:00",
+      "published": "2026-11-19T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
-      "title": "Fundora chasing rings, not just titles: Predictions and stats vs. Zapotoczna",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWhyRFJROFVCMjJlaDdvNnMyMTVTOHRjZVR6dVNIUkJfZEtnZE5NUVVrdU55cHFwbGRGeWItNnJvc1dvQUExVUU2eEJMLUJmZlhaUlVWY0xMcmFFYi1xNkptWVBCb2hhbFlrdmF4aXFXZGlLQjRsWERaYXJ1ajlnS05GalA4N21ncmlzTkJqVGNWMTB5S0Y5Vk93?oc=5",
-      "published": "2026-11-19T13:15:00+00:00",
+      "title": "Alycia Baumgardner vacates junior lightweight titles to make lightweight run",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlHdHZHNUNPUXpaYVY2YUhaZUpfZjhFaEhLbk5uRXlPOXc2VEhXekRuTGlUM3Y3aFZmaDNEQWZhY0dSVzk0aTdvN2hVYTdwT1lvSDJ6amk3OVhzVjdwbGhOaS1YbEV5bVprTnQxcVlpdzZnVjhCZVVqLXJ6dlhCZEN3SzBhOVVpWWVHZTBhb0VranpUcG95OEFGVlBYM25WVHVQYzNUdw?oc=5",
+      "published": "2026-11-18T08:00:00+00:00",
       "source": "ESPN (via Google News)"
     },
     {
@@ -345,12 +375,6 @@
       "link": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
       "published": "2026-11-17T10:00:09+00:00",
       "source": "The Guardian"
-    },
-    {
-      "title": "Irish boxer Reeves dies aged 31 after three months in coma",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-17T07:18:08+00:00",
-      "source": "BBC Sport"
     },
     {
       "title": "From Watford to world champion",
@@ -419,34 +443,10 @@
       "source": "The Guardian"
     },
     {
-      "title": "‘If my brother hadn’t died, my life would be so different’: Olympic boxer Ramla Ali’s incredible journey",
-      "link": "https://www.theguardian.com/film/2026/oct/22/ramla-ali-olympic-boxer-interview-in-the-shadows-film",
-      "published": "2026-10-22T13:28:59+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "‘My time, my era’: Dubois sends out warning to rivals with Wardley demolition",
-      "link": "https://www.theguardian.com/sport/2026/oct/18/daniel-dubois-fabio-wardley-wbo-heavyweight-title-rematch-boxing",
-      "published": "2026-10-18T13:53:32+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fundora brutally knocks out Hadribeaj with one second left to retain 154lb title",
-      "link": "https://www.theguardian.com/sport/2026/oct/18/sebastian-fundora-ermal-hadribeaj-knockout-wbc-title-las-vegas",
-      "published": "2026-10-18T05:06:35+00:00",
-      "source": "The Guardian"
-    },
-    {
       "title": "Fury v Joshua fight to provide 'big boost' to city's economy",
       "link": "https://www.bbc.co.uk/news/articles/c6qxv75g4zx8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T09:45:36+00:00",
       "source": "BBC Sport"
-    },
-    {
-      "title": "On This Day | Froch v Groves I | Pundits in SHOCK!",
-      "link": "https://www.skysports.com/watch/video/13253228/on-this-day-carl-froch-v-george-groves-i-pundits-in-shock",
-      "published": "2025-11-23T07:00:00+00:00",
-      "source": "Sky Sports"
     }
   ]
 }
